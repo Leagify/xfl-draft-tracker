@@ -1,0 +1,1 @@
+csvjoin -c "COLLEGE" --left 2019/draftResults-2019.csv info/StatesAndConferences.csv > 2019/draftResultsWithStates-2019.csv
