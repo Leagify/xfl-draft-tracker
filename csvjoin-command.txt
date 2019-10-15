@@ -1,1 +1,3 @@
 csvjoin -c "COLLEGE" --left 2019/draftResults-2019.csv info/StatesAndConferences.csv > 2019/draftResultsWithStates-2019.csv
+
+csvjoin -c "COLLEGE" --left 2019/draftPool-2019.csv info/StatesAndConferences.csv > 2019/draftPoolWithStates-2019.csv
