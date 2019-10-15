@@ -165,7 +165,7 @@ Elon,FCS,North Carolina
 Florida A&M,FCS,Florida
 Fordham,FCS,New York
 Furman,FCS,South Carolina
-Gardner–Webb,FCS,North Carolina
+Gardner-Webb,FCS,North Carolina
 Georgetown,FCS,Washington DC
 Grambling State,FCS,Louisiana
 Hampton,FCS,Virginia
@@ -256,7 +256,7 @@ Alderson Broaddus,D2,West Virginia
 American International College,D2,Massachusetts
 Angelo State,D2,Texas
 Arkansas Tech,D2,Arkansas
-Arkansas–Monticello,D2,Arkansas
+Arkansas-Monticello,D2,Arkansas
 Ashland,D2,Ohio
 Assumption College,D2,Massachusetts
 Augustana College,D2,South Dakota
@@ -268,7 +268,8 @@ Black Hills State,D2,South Dakota
 Bloomsburg,D2,Pennsylvania
 Bowie State,D2,Maryland
 Brevard College,D2,North Carolina
-Carson–Newman,D2,Tennessee
+California (PA),D2,Pennsylvania
+Carson-Newman,D2,Tennessee
 Catawba College,D2,North Carolina
 Central Missouri,D2,Missouri
 Central Oklahoma,D2,Oklahoma
@@ -282,9 +283,9 @@ Clarion,D2,Pennsylvania
 Clark Atlanta,D2,Georgia
 Colorado Mesa,D2,Colorado
 Colorado Mines,D2,Colorado
-Colorado State–Pueblo,D2,Colorado
+Colorado State-Pueblo,D2,Colorado
 Concord,D2,West Virginia
-Concordia–St. Paul,D2,Minnesota
+Concordia-St. Paul,D2,Minnesota
 Delta State,D2,Mississippi
 Dixie State,D2,Utah
 East Central,D2,Oklahoma
@@ -316,14 +317,14 @@ Kentucky Wesleyan College,D2,Kentucky
 Kutztown,D2,Pennsylvania
 Lake Erie College,D2,Ohio
 Lane College,D2,Tennessee
-Lenoir–Rhyne,D2,North Carolina
+Lenoir-Rhyne,D2,North Carolina
 Limestone College,D2,South Carolina
 Lincoln (MO),D2,Missouri
 Lincoln (PA),D2,Pennsylvania
 Lindenwood,D2,Missouri
 Livingstone College,D2,North Carolina
 Lock Haven,D2,Pennsylvania
-Long Island–Post,D2,New York
+Long Island-Post,D2,New York
 Malone,D2,Ohio
 Mars Hill College,D2,North Carolina
 Mary,D2,North Dakota
@@ -335,22 +336,22 @@ Michigan Tech,D2,Michigan
 Midwestern State,D2,Texas
 Miles College,D2,Alabama
 Millersville,D2,Pennsylvania
-Minnesota State–Mankato,D2,Minnesota
-Minnesota State–Moorhead,D2,Minnesota
-Minnesota–Crookston,D2,Minnesota
-Minnesota–Duluth,D2,Minnesota
+Minnesota State-Mankato,D2,Minnesota
+Minnesota State-Moorhead,D2,Minnesota
+Minnesota-Crookston,D2,Minnesota
+Minnesota-Duluth,D2,Minnesota
 Minot State,D2,North Dakota
 Mississippi College,D2,Mississippi
 Missouri S&T,D2,Missouri
 Missouri Southern State,D2,Missouri
 Missouri Western State,D2,Missouri
 Morehouse College,D2,Georgia
-Nebraska–Kearney,D2,Nebraska
+Nebraska-Kearney,D2,Nebraska
 New Haven,D2,Connecticut
 New Mexico Highlands,D2,New Mexico
 Newberry College,D2,South Carolina
 North Alabama,D2,Alabama
-North Carolina–Pembroke,D2,North Carolina
+North Carolina-Pembroke,D2,North Carolina
 North Greenville,D2,South Carolina
 Northeastern State,D2,Oklahoma
 Northern Michigan,D2,Michigan
@@ -390,8 +391,8 @@ Southwestern Oklahoma State,D2,Oklahoma
 Stillman College,D2,Alabama
 Stonehill College,D2,Massachusetts
 Tarleton State,D2,Texas
-Texas A&M–Commerce,D2,Texas
-Texas A&M–Kingsville,D2,Texas
+Texas A&M-Commerce,D2,Texas
+Texas A&M-Kingsville,D2,Texas
 Tiffin,D2,Ohio
 Truman State,D2,Missouri
 Tusculum College,D2,Tennessee
@@ -401,7 +402,7 @@ Urbana,D2,Ohio
 Valdosta State,D2,Georgia
 Virginia State,D2,Virginia
 Virginia Union,D2,Virginia
-Virginia–Wise,D2,Virginia
+Virginia-Wise,D2,Virginia
 Walsh,D2,Ohio
 Washburn,D2,Kansas
 Wayne State,D2,Michigan
@@ -419,7 +420,7 @@ Western State Colorado,D2,Colorado
 William Jewell College,D2,Missouri
 Wingate,D2,North Carolina
 Winona State,D2,Minnesota
-Winston–Salem State,D2,North Carolina
+Winston-Salem State,D2,North Carolina
 Adrian,D3,Michigan
 Albion,D3,Michigan
 Albright,D3,Pennsylvania
@@ -507,9 +508,9 @@ Guilford,D3,North Carolina
 Gustavus Adolphus,D3,Minnesota
 Hamilton,D3,New York
 Hamline,D3,Minnesota
-Hampden–Sydney,D3,Virginia
+Hampden-Sydney,D3,Virginia
 Hanover,D3,Indiana
-Hardin–Simmons,D3,Texas
+Hardin-Simmons,D3,Texas
 Hartwick,D3,New York
 Heidelberg,D3,Ohio
 Hendrix,D3,Arkansas
@@ -550,7 +551,7 @@ Manchester,D3,Indiana
 Maranatha Baptist,D3,Wisconsin
 Marietta,D3,Ohio
 Martin Luther,D3,Minnesota
-Mary Hardin–Baylor,D3,Texas
+Mary Hardin-Baylor,D3,Texas
 Maryville,D3,Tennessee
 Mass-Dartmouth,D3,Massachusetts
 Massachusetts Maritime,D3,Massachusetts
@@ -588,13 +589,13 @@ Pacific Lutheran,D3,Washington
 Plymouth State,D3,New Hampshire
 Pomona-Pitzer,D3,California
 Puget Sound,D3,Washington
-Randolph–Macon,D3,Virginia
+Randolph-Macon,D3,Virginia
 Redlands,D3,California
 Rhodes,D3,Tennessee
 Ripon,D3,Wisconsin
 Rochester,D3,New York
 Rockford,D3,Illinois
-Rose–Hulman,D3,Indiana
+Rose-Hulman,D3,Indiana
 Rowan,D3,New Jersey
 RPI,D3,New York
 Salisbury,D3,Maryland
@@ -628,14 +629,14 @@ Tufts,D3,Massachusetts
 Union,D3,New York
 Ursinus,D3,Pennsylvania
 Utica,D3,New York
-UW–Eau Claire,D3,Wisconsin
-UW–La Crosse,D3,Wisconsin
-UW–Oshkosh,D3,Wisconsin
-UW–Platteville,D3,Wisconsin
-UW–River Falls,D3,Wisconsin
-UW–Stevens Point,D3,Wisconsin
-UW–Stout,D3,Wisconsin
-UW–Whitewater,D3,Wisconsin
+UW-Eau Claire,D3,Wisconsin
+UW-La Crosse,D3,Wisconsin
+UW-Oshkosh,D3,Wisconsin
+UW-Platteville,D3,Wisconsin
+UW-River Falls,D3,Wisconsin
+UW-Stevens Point,D3,Wisconsin
+UW-Stout,D3,Wisconsin
+UW-Whitewater,D3,Wisconsin
 Wabash,D3,Indiana
 Wartburg,D3,Iowa
 Washington & Jefferson,D3,Pennsylvania
@@ -663,3 +664,4 @@ Wittenberg,D3,Ohio
 Wooster,D3,Ohio
 Worcester Poly,D3,Massachusetts
 Worcester State,D3,Massachusetts
+Grand Rapids,JC,Michigan
