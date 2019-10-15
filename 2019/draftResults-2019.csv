@@ -6,12 +6,12 @@ ORDER,TEAM,PLAYER,POSITION,COLLEGE,PHASE,ROUND
 1,Vipers,Aaron Murray,QB,Georgia,0: QB,1
 1,BattleHawks,Jordan Ta'amu,QB,Ole Miss,0: QB,1
 1,Dragons,Brandon Silvers,QB,Troy,0: QB,1
-1,Wildcats,Luis Perez,QB,Texas A&M - Commerce,0: QB,1
+1,Wildcats,Luis Perez,QB,Texas A&M-Commerce,0: QB,1
 1,Defenders,Rashard Davis,WR,James Madison,1: Skill,1
 2,Roughnecks,Connor Cook,QB,Michigan State,1: Skill,1
 3,Guardians,DeAngelo Yancey,WR,Purdue,1: Skill,1
 4,Renegades,Jeff Badet,WR,Oklahoma,1: Skill,1
-5,Vipers,Nick Truesdell,TE,Grand Rapids JC,1: Skill,1
+5,Vipers,Nick Truesdell,TE,Grand Rapids,1: Skill,1
 6,BattleHawks,Christine Michael,RB,Texas A&M,1: Skill,1
 7,Dragons,Trey Williams,RB,Texas A&M,1: Skill,1
 8,Wildcats,Elijah Hood,RB,North Carolina,1: Skill,1
@@ -35,12 +35,12 @@ ORDER,TEAM,PLAYER,POSITION,COLLEGE,PHASE,ROUND
 2,Dragons,Jace Amaro,TE,Texas Tech,1: Skill,4
 3,BattleHawks,L'Damian Washington,WR,Missouri,1: Skill,4
 4,Vipers,Jalen Tolliver,WR,Arkansas-Monticello,1: Skill,4
-5,Renegades,Stacy Coley,WR,Miami,1: Skill,4
+5,Renegades,Stacy Coley,WR,Miami (FL),1: Skill,4
 6,Guardians,Tim Cook,RB,Oregon State,1: Skill,4
-7,Roughnecks,Kyle Hicks,RB,Texas Christian,1: Skill,4
+7,Roughnecks,Kyle Hicks,RB,TCU,1: Skill,4
 8,Defenders,DeAndre Thompkins,WR,Penn State,1: Skill,4
 1,Defenders,Khari Lee,TE,Bowie State,1: Skill,5
-2,Roughnecks,Deontez Alexander,WR,Franklin College,1: Skill,5
+2,Roughnecks,Deontez Alexander,WR,Franklin,1: Skill,5
 3,Guardians,Demarcus Ayers,WR,Houston,1: Skill,5
 4,Renegades,Sean Price,TE,South Florida,1: Skill,5
 5,Vipers,Quinton Flowers,RB,South Florida,1: Skill,5
@@ -59,7 +59,7 @@ ORDER,TEAM,PLAYER,POSITION,COLLEGE,PHASE,ROUND
 2,Roughnecks,Jalen Saunders,WR,Oklahoma,1: Skill,7
 3,Guardians,Keith Towbridge,TE,Louisville,1: Skill,7
 4,Renegades,Philip Nelson,QB,East Carolina,1: Skill,7
-5,Vipers,Rannell Hall,WR,Central Florida,1: Skill,7
+5,Vipers,Rannell Hall,WR,UCF,1: Skill,7
 6,BattleHawks,Matt Jones,RB,Florida,1: Skill,7
 7,Dragons,Kasen Williams,WR,Washington,1: Skill,7
 8,Wildcats,Martez Carter,RB,Grambling State,1: Skill,7
@@ -78,7 +78,7 @@ ORDER,TEAM,PLAYER,POSITION,COLLEGE,PHASE,ROUND
 5,Vipers,Taylor Cornelius,QB,Oklahoma State,1: Skill,9
 6,BattleHawks,Alonzo Russell,WR,Toledo,1: Skill,9
 7,Dragons,Cam Clear,TE,Texas A&M,1: Skill,9
-8,Wildcats,Scott Orndoff,TE,Pittsburgh,1: Skill,9
+8,Wildcats,Scott Orndoff,TE,Pitt,1: Skill,9
 1,Wildcats,Donteea Dye,WR,Heidelberg,1: Skill,10
 2,Dragons,Malachi Jones,WR,Appalachian State,1: Skill,10
 3,BattleHawks,Jordan Lasley,WR,UCLA,1: Skill,10
@@ -89,8 +89,8 @@ ORDER,TEAM,PLAYER,POSITION,COLLEGE,PHASE,ROUND
 8,Defenders,Adrien Robinson,TE,Cincinnati,1: Skill,10
 1,Wildcats,Storm Norton,OT,Toledo,2: OL,1
 2,Dragons,Isaiah Battle,OT,Clemson,2: OL,1
-3,BattleHawks,Matt McCants,OT,Alabama-Birmingham,2: OL,1
-4,Vipers,Jordan McCray,OC,Central Florida,2: OL,1
+3,BattleHawks,Matt McCants,OT,UAB,2: OL,1
+4,Vipers,Jordan McCray,OC,UCF,2: OL,1
 5,Renegades,Willie Beavers,OT,Western Michigan,2: OL,1
 6,Guardians,Jarron Jones,OT,Notre Dame,2: OL,1
 7,Roughnecks,Cornelius Edison,OT,Portland State,2: OL,1
@@ -107,7 +107,7 @@ ORDER,TEAM,PLAYER,POSITION,COLLEGE,PHASE,ROUND
 2,Dragons,Dillon Day,OC,Mississippi State,2: OL,3
 3,BattleHawks,Dallas Thomas,OG,Tennessee,2: OL,3
 4,Vipers,Isaiah Williams,OG,Akron,2: OL,3
-5,Renegades,Maurquice Shakir,OG,Middle Tennessee State,2: OL,3
+5,Renegades,Maurquice Shakir,OG,Middle Tennessee,2: OL,3
 6,Guardians,Parker Collins,OC,Appalachian State,2: OL,3
 7,Roughnecks,Avery Gennesy,OT,Texas A&M,2: OL,3
 8,Defenders,De'Ondre Wesley,OT,BYU,2: OL,3
@@ -126,20 +126,20 @@ ORDER,TEAM,PLAYER,POSITION,COLLEGE,PHASE,ROUND
 5,Renegades,Alex Balducci,OC,Oregon,2: OL,5
 6,Guardians,Zac Kerin,OG,Toledo,2: OL,5
 7,Roughnecks,Marquez Tucker,OG,Southern Utah,2: OL,5
-8,Defenders,Rishard Cook,OG,Alabama-Birmingham,2: OL,5
+8,Defenders,Rishard Cook,OG,UAB,2: OL,5
 1,Defenders,Chris Brown,OG,USC,2: OL,6
 2,Roughnecks,Gerhard de Beer,OT,Arizona,2: OL,6
 3,Guardians,Brian Fineanganofo,OT,Idaho State,2: OL,6
-4,Renegades,Josh Allen,OG,Lousiana Monroe,2: OL,6
+4,Renegades,Josh Allen,OG,Louisiana-Monroe,2: OL,6
 5,Vipers,Christian Morris,OT,Ole Miss,2: OL,6
-6,BattleHawks,Tyler Gauthier,OC,Miami,2: OL,6
+6,BattleHawks,Tyler Gauthier,OC,Miami (FL),2: OL,6
 7,Dragons,Michael Dunn,OT,Maryland,2: OL,6
 8,Wildcats,Nico Siragusa,OG,San Diego State,2: OL,6
 1,Wildcats,Ryan Cummings,OG,Wyoming,2: OL,7
 2,Dragons,Kirk Barron,OC,Purdue,2: OL,7
 3,BattleHawks,Blake Muir,OG,Baylor,2: OL,7
 4,Vipers,Tony Adams,OG,NC State,2: OL,7
-5,Renegades,Adam Bisnowaty,OT,Pittsburgh,2: OL,7
+5,Renegades,Adam Bisnowaty,OT,Pitt,2: OL,7
 6,Guardians,John Kling,OT,Buffalo,2: OL,7
 7,Roughnecks,Patrick Lewis,OC,Texas A&M,2: OL,7
 8,Defenders,Toby Weathersby,OT,LSU,2: OL,7
@@ -188,7 +188,7 @@ ORDER,TEAM,PLAYER,POSITION,COLLEGE,PHASE,ROUND
 3,Dragons,Will Sutton,DT,Arizona State,3: DF7,3
 4,Wildcats,Latarius Brady,DT,Memphis,3: DF7,3
 5,Defenders,Elijah Qualls,DT,Washington,3: DF7,3
-6,Roughnecks,Edmond Robinson,LB,Newberry,3: DF7,3
+6,Roughnecks,Edmond Robinson,LB,Newberry College,3: DF7,3
 7,Guardians,Austin Larkin,DE,Purdue,3: DF7,3
 8,Renegades,Winston Craig,DT,Richmond,3: DF7,3
 1,Renegades,Ray Ray Davison,LB,California,3: DF7,4
@@ -197,7 +197,7 @@ ORDER,TEAM,PLAYER,POSITION,COLLEGE,PHASE,ROUND
 4,Defenders,Scooby Wright,LB,Arizona,3: DF7,4
 5,Wildcats,Willie Mays,DE,Tiffin,3: DF7,4
 6,Dragons,Tenny Palepoi,DE,Utah,3: DF7,4
-7,BattleHawks,Jamell Garcia-Williams,DE,Alabama-Birmingham,3: DF7,4
+7,BattleHawks,Jamell Garcia-Williams,DE,UAB,3: DF7,4
 8,Vipers,Reggie Northrop,LB,Florida State,3: DF7,4
 1,Vipers,Josh Banks,DT,Wake Forest,3: DF7,5
 2,BattleHawks,Channing Ward,DT,Ole Miss,3: DF7,5
@@ -231,12 +231,12 @@ ORDER,TEAM,PLAYER,POSITION,COLLEGE,PHASE,ROUND
 6,Dragons,Danny Ezechukwu,DE,Purdue,3: DF7,8
 7,BattleHawks,Marcus Hardison,DT,Arizona State,3: DF7,8
 8,Vipers,Anthony Stubbs,LB,Prairie View A&M,3: DF7,8
-1,Vipers,Jason Neill,DE,Texas-San Antonio,3: DF7,9
-2,BattleHawks,Nicholas Grigsby,LB,Pittsburgh,3: DF7,9
+1,Vipers,Jason Neill,DE,UTSA,3: DF7,9
+2,BattleHawks,Nicholas Grigsby,LB,Pitt,3: DF7,9
 3,Dragons,Pasoni Tasini,DT,Utah,3: DF7,9
 4,Wildcats,Adrian Hubbard,DE,Alabama,3: DF7,9
 5,Defenders,KeShun Freeman,DE,Georgia Tech,3: DF7,9
-6,Roughnecks,Caushaud Lyons,DT,Tusculum,3: DF7,9
+6,Roughnecks,Caushaud Lyons,DT,Tusculum College,3: DF7,9
 7,Guardians,Garrison Smith,DT,Georgia,3: DF7,9
 8,Renegades,Tegray Scales,LB,Indiana,3: DF7,9
 1,Renegades,Izaah Lunsford,DT,Bowling Green,3: DF7,10
