@@ -10,10 +10,10 @@ Taryn Christion,QB,South Dakota State
 CJ Collins,QB,Southwest Assembly of God
 Connor Cook,QB,Michigan State
 Taylor Cornelius,QB,Oklahoma State
-David Cornwell,QB,East Central (OK)
+David Cornwell,QB,East Central
 BJ Daniels,QB,South Florida
 Garrett Fugate,QB,Central Missouri
-Justin Holman,QB,Central Florida
+Justin Holman,QB,UCF
 Tyree Jackson,QB,Buffalo
 Devante Kincade,QB,Grambling State
 Trevor Knight,QB,Texas A&M
@@ -21,12 +21,12 @@ Tanner Lee,QB,Nebraska
 Vad Lee,QB,James Madison
 Matt Linehan,QB,Idaho
 TJ Linta,QB,Wagner
-Tanner Mangum,QB,Brigham Young
+Tanner Mangum,QB,BYU
 Jalan McClendon,QB,Baylor
 Marcus McDade,QB,Sacramento State
 Greg McGhee,QB,Howard
 Marcus McMaryion,QB,Fresno State
-Zach Mettenberger,QB,Louisiana State
+Zach Mettenberger,QB,LSU
 Philip Nelson,QB,East Carolina
 Keith Price,QB,Washington
 Peter Pujals,QB,Holy Cross
@@ -38,7 +38,7 @@ Patrick Towles,QB,Boston College
 Marquise Williams,QB,North Carolina
 Khalid Abdullah,RB,James Madison
 Cameron Artis-Payne,RB,Auburn
-George Aston,RB,Pittsburgh
+George Aston,RB,Pitt
 Sherman Badie,RB,Tulane
 Jonathan Banks,RB,Tulane
 Alex Barnes,RB,Kansas State
@@ -53,7 +53,7 @@ Lavon Coleman,RB,Washington
 Tim Cook,RB,Oregon State
 Marshaun Coprich,RB,Illinois State
 Noel Devine,RB,West Virginia
-Winston Dimel,RB,Texas-El Paso
+Winston Dimel,RB,UTEP
 Lance Dunbar,RB,North Texas
 Brionte Dunn,RB,Ohio State
 Berkley Edwards,RB,Michigan
@@ -64,19 +64,19 @@ Dimitri Flowers,RB,Oklahoma
 Quinton Flowers,RB,South Florida
 Tarean Folston,RB,Notre Dame
 Keith Ford,RB,Texas A&M
-Mike Ford,RB,Louisiana State
+Mike Ford,RB,LSU
 Khris Francis,RB,North Carolina
 Jarvion Franklin,RB,Western Michigan
 Ja'Quan Gardner,RB,Humboldt State
-Manasseh Garner,RB,Pittsburgh
+Manasseh Garner,RB,Pitt
 Jakhari Gore,RB,Marian
 Jonas Gray,RB,Notre Dame
 Trayone Gray,RB,Miami (FL)
 Ryan Green,RB,Florida State
 Dujuan Harris,RB,Troy
 Mark Herndon,RB,Florida
-Kyle Hicks,RB,Texas Christian
-Kenny Hilliard,RB,Louisiana State
+Kyle Hicks,RB,TCU
+Kenny Hilliard,RB,LSU
 Darnell Holland,RB,Kennesaw State
 Nick Holley,RB,Kent State
 Elijah Hood,RB,North Carolina
@@ -84,17 +84,17 @@ Akeem Hunt,RB,Purdue
 Ty Isaac,RB,Michigan
 Devontae Jackson,RB,West Georgia
 Cardon Johnson,RB,James Madison
-Storm Johnson,RB,Central Florida
+Storm Johnson,RB,UCF
 De'Shawn Jones,RB,Campbell
 Matt Jones,RB,Florida
 Kendial Lawrence,RB,Missouri
 Ray Lawry,RB,Old Dominion
 Taku Lee,RB,International
-Terrence Magee,RB,Louisiana State
+Terrence Magee,RB,LSU
 D.J. May,RB,Wyoming
 Travon McMillian,RB,Colorado
 Christine Michael,RB,Texas A&M
-JD Moore,RB,Louisiana State
+JD Moore,RB,LSU
 Rajion Neal,RB,Tennessee
 Cedric O'Neal,RB,Valdosta State
 Branden Oliver,RB,Buffalo
@@ -117,14 +117,14 @@ Dontae Strickland,RB,Syracuse
 Kelvin Taylor,RB,Florida
 Jahad Thomas,RB,Temple
 John Thomas,RB,Penn State
-Lexington Thomas,RB,Nevada-Las Vegas
+Lexington Thomas,RB,UNLV
 Mark Thompson,RB,Florida
 Lenard Tillery,RB,Southern
 Xavier Turner,RB,Incarnate Word
 Darius Victor,RB,Towson
 Akrum Wadley,RB,Iowa
 Terron Ward,RB,Oregon State
-Aca'Cedric Ware,RB,Southern California
+Aca'Cedric Ware,RB,USC
 Mike Warren,RB,Iowa State
 Trey Watts,RB,Tulsa
 Jody Webb,RB,Youngstown State
@@ -136,12 +136,12 @@ James Williams,RB,Washington State
 Malik Williams,RB,Louisville
 Marquez Williams,RB,Miami (FL)
 Trey Williams,RB,Texas A&M
-Marquis Young,RB,Massachusettes
+Marquis Young,RB,Massachusetts
 Ryan Yurachek,RB,Marshall
 Carlton Agudosi,WR,Rutgers
-Deontez Alexander,WR,Franklin College
-Floyd Allen,WR,Mississippi
-Anthony Amos,WR,Middle Tennessee State
+Deontez Alexander,WR,Franklin
+Floyd Allen,WR,Ole Miss
+Anthony Amos,WR,Middle Tennessee
 Dres Anderson,WR,Utah
 Demarcus Ayers,WR,Houston
 Jeff Badet,WR,Oklahoma
@@ -149,7 +149,7 @@ Kenny Bell,WR,Nebraska
 Raymond Bolden,WR,Stony Brook
 Marvin Bracy-Williams,WR,Florida State
 Jack Bramswig,WR,Boston College
-Frank Brown,WR,Bethune Cookman
+Frank Brown,WR,Bethune-Cookman
 Ryan Broyles,WR,Oklahoma
 Dontez Byrd,WR,Tennessee Tech
 KD Cannon,WR,Baylor
@@ -161,15 +161,15 @@ Rashard Davis,WR,James Madison
 Ryan Davis,WR,Auburn
 Kahlil Dawson,WR,Portland State
 Delfonte Diamond,WR,McMurry
-John Diarse,WR,Texas Christian
+John Diarse,WR,TCU
 Kenzel Doe,WR,Wisconsin
 Steven Dunbar,WR,Houston
-Travin Dural,WR,Louisiana State
+Travin Dural,WR,LSU
 Donteea Dye,WR,Heidelberg
 Ed Eagan,WR,Northwestern State
 Matthew Eaton,WR,Iowa State
 DeVozea Felton,WR,Tuskegee
-Dontez Ford,WR,Pittsburgh
+Dontez Ford,WR,Pitt
 Jacoby Ford,WR,Clemson
 Armanti Foreman,WR,Texas
 Jordon Gandy,WR,Murray State
@@ -182,35 +182,35 @@ Jalen Greene,WR,Utah State
 Antoine Griffin,WR,West Florida
 Fabian Guerra,WR,Fairmont State
 Jalen Guyton,WR,North Texas
-Rannell Hall,WR,Central Florida
+Rannell Hall,WR,UCF
 Karel Hamilton,WR,Samford
-DeQuan Hampton,WR,Southern California
+DeQuan Hampton,WR,USC
 J-Shun Harris,WR,Indiana
 Delane Hart-Johnson,WR,New Mexico
 Matt Hazel,WR,Coastal Carolina
 Jerrod Heard,WR,Texas
 Dominique Heath,WR,Appalachian State
-Quadree Henderson,WR,Pittsburgh
+Quadree Henderson,WR,Pitt
 Timmy Hernandez,WR,Oregon State
 Treydonte Hill,WR,Western New Mexico
 Mikah Holder,WR,San Diego State
 Deion Holliman,WR,Missouri State
 Reece Horn,WR,Indianapolis
-Joe Horn Jr,WR,Missouri Western State
+Joe Horn Jr,WR,Missouri Western State State
 Alton Howard,WR,Tennessee
 Johnathan Howard,WR,North Carolina
 Chris Hubert,WR,Fayetteville State
 Isaiah Huston,WR,Arizona Christian
 Ishmael Hyman,WR,James Madison
 Trenton Irwin,WR,Stanford
-Blake Jackson,WR,Mary Hardin Baylor
+Blake Jackson,WR,Mary Hardin-Baylor
 Chuck Jacobs,WR,Utah State
 Taivon Jacobs,WR,Maryland
 Levern Jacobs III,WR,Maryland
 Damion Jeanpiere,WR,Nicholls State
 Adonis Jennings,WR,Temple
 Garrett Johnson,WR,Kentucky
-Charlie Jones,WR,American
+Charlie Jones,WR,American International College
 Jamaal Jones,WR,Montana
 Malachi Jones,WR,Appalachian State
 Seantavius Jones,WR,Valdosta State
@@ -219,11 +219,11 @@ Anthony Kelly,WR,Kutztown
 Jordan Lasley,WR,UCLA
 Terrence Lee-Alls,WR,James Madison
 Ralph Leonard,WR,Southern Illinois
-Jordan Leslie,WR,Brigham Young
+Jordan Leslie,WR,BYU
 Kahlil Lewis,WR,Cincinnati
 TommyLee Lewis,WR,Northern Illinois
 Justice Liggins,WR,Stephen F. Austin
-Stephen Louis,WR,North Carolina State
+Stephen Louis,WR,NC State
 Yedidiah Louis,WR,Sam Houston State
 Keevan Lucas,WR,Tulsa
 Marcus Lucas,WR,Missouri
@@ -241,7 +241,7 @@ Gary McKnight,WR,Northeastern State
 Kelvin McKnight,WR,Samford
 Robert Meachem,WR,Tennessee
 Octayvius Miles,WR,Alabama A&M
-Sam Mobley,WR,Catawba
+Sam Mobley,WR,Catawba College
 Alonzo Moore,WR,Nebraska
 Richard Mullaney,WR,Oregon State
 Keith Mumphery,WR,Michigan State
@@ -250,10 +250,10 @@ Flynn Nagel,WR,Northwestern
 Durron Neal,WR,Oklahoma
 Thomas Owens,WR,Florida International
 Tyler Palka,WR,Gannon
-Tobais Palmer,WR,North Carolina State
+Tobais Palmer,WR,NC State
 Vinny Papale,WR,Delaware
 Damoun Patterson,WR,Youngstown State
-Colby Pearson,WR,Brigham Young
+Colby Pearson,WR,BYU
 Troy Pelletier,WR,Lehigh
 Ervin Philips,WR,Syracuse
 Cam Phillips,WR,Virginia Tech
@@ -265,7 +265,7 @@ James Quick,WR,Louisville
 Willie Quinn,WR,Southern
 Brandon Reilly,WR,Nebraska
 Keenan Reynolds,WR,Navy
-Korey Robertson,WR,Southern Mississippi
+Korey Robertson,WR,Southern Miss
 Fred Ross,WR,Mississippi State
 Kayaune Ross,WR,Kentucky
 Rashad Ross,WR,Arizona State
@@ -273,7 +273,7 @@ Jalen Rowell,WR,Air Force
 Ezell Ruffin,WR,San Diego State
 Xavier Rush,WR,Tulane
 Alonzo Russell,WR,Toledo
-Brian Sandifer,WR,Wisconsin-Stout
+Brian Sandifer,WR,UW-Stout
 John Santiago,WR,North Dakota
 Jalen Saunders,WR,Oklahoma
 Qua Searcy,WR,Georgia Tech
@@ -286,15 +286,15 @@ Patrick Smith,WR,Tennessee State
 Riley Smith,WR,West Texas A&M
 Kamrin Solomon,WR,Florida Atlantic
 Nelson Spruce,WR,Colorado
-Josh Stewart,WR,Texas-San Antonio
+Josh Stewart,WR,UTSA
 Kyle Sweet,WR,Washington State
-Ron'Quavion Tarver,WR,Nevada-Reno
+Ron'Quavion Tarver,WR,Nevada
 Justin Thomas,WR,Georgia Tech
 DeAndre Thompkins,WR,Penn State
 Carlos Thompson,WR,Independance CC
 Chris Thompson,WR,Florida
 Jalen Tolliver,WR,Arkansas-Monticello
-Jonah Trinnamen,WR,Brigham Young
+Jonah Trinnamen,WR,BYU
 Aaren Vaughns,WR,Utah State
 Joe Walker,WR,Delaware
 L'Damian Washington,WR,Missouri
@@ -304,17 +304,17 @@ Kermit Whitfield,WR,Florida State
 Carl Whitley,WR,Abilene Christian
 Daniel Williams,WR,Jackson State
 Kasen Williams,WR,Washington
-Taj Williams,WR,Texas Christian
+Taj Williams,WR,TCU
 Terrance Williams,WR,Baylor
 Malik Wilson,WR,North Carolina A&T
 Tim Wilson,WR,East Stroudsburg
 Kendall Wright,WR,Baylor
 DeAngelo Yancey,WR,Purdue
 Isaac Zico,WR,Purdue
-Julian Allen,TE,Southern Mississippi
+Julian Allen,TE,Southern Miss
 Jace Amaro,TE,Texas Tech
 Nate Askew,TE,Texas A&M
-Tanner Balderree,TE,Brigham Young
+Tanner Balderree,TE,BYU
 Brandon Barnes,TE,Alabama State
 Dillon Beard,TE,Southern
 EJ Bibbs,TE,Iowa State
@@ -322,24 +322,24 @@ Romello Brooker,TE,Houston
 Kyle Carter,TE,Penn State
 Orson Charles,TE,Georgia
 Gerald Christian,TE,Louisville
-Darion Clark,TE,Southern California
+Darion Clark,TE,USC
 Cam Clear,TE,Texas A&M
 Zach Conque,TE,Stephen F. Austin
 Micky Crum III,TE,Louisville
 Connor Davis,TE,Stony Brook
-Fred Davis,TE,Southern California
+Fred Davis,TE,USC
 Anthony Denham,TE,Utah
 Elkanah Dillon,TE,South Florida
 Jonathan Dorsey,TE,Alabama A&M
-Aaron Evans,TE,Central Florida
+Aaron Evans,TE,UCF
 DeAndre Goolsby,TE,Florida
 Connor Hamlett,TE,Oregon State
 Clay Harbor,TE,Missouri State
 Jackson Harris,TE,Georgia
 Derrick Hayward,TE,Maryland
 Garrett Hudson,TE,Richmond
-Cole Hunt,TE,Texas Christian
-Colin Jeter,TE,Louisiana State
+Cole Hunt,TE,TCU
+Colin Jeter,TE,LSU
 Ben Johnson,TE,Kansas
 Jalyn Judkins,TE,Angelo State
 Carter Kirk,TE,Southwest Minnesota State
@@ -348,9 +348,9 @@ C'yontai Lewis,TE,Florida
 Jake McGee,TE,Florida
 Pharoah McKever,TE,Florida International
 Cordon Moog,TE,Baylor
-Scott Orndoff,TE,Pittsburgh
-Donald Parham,TE,Stenson
-Tyler Petite,TE,Southern California
+Scott Orndoff,TE,Pitt
+Donald Parham,TE,Stetson
+Tyler Petite,TE,USC
 Jake Powell,TE,Monmouth
 Sean Price,TE,South Florida
 Stehly Reden,TE,Texas A&M-Kingsville
@@ -365,15 +365,15 @@ Weslye Saunders,TE,South Carolina
 Wes Saxton,TE,South Alabama
 Cameron Serigne,TE,Wake Forest
 Ryan Smith,TE,Miami (OH)
-Johnny Stanton,TE,Nevada-Las Vegas
+Johnny Stanton,TE,UNLV
 Moral Stephens Jr,TE,Florida
 Jake Sutherland,TE,Morehead State
-Kent Taylor,TE,Texas-El Paso
-Brett Thompson,TE,Tennessee-Martin
+Kent Taylor,TE,UTEP
+Brett Thompson,TE,UT Martin
 Colin Thompson,TE,Temple
 Keith Towbridge,TE,Louisville
-Nick Truesdell,TE,Grand Rapids JC
-Dimitrios Tsesmetzis,TE,Western Connecticut State
+Nick Truesdell,TE,Grand Rapids
+Dimitrios Tsesmetzis,TE,Western Connecticut
 Eric Wallace,TE,Seattle
 Matt Weiser,TE,Buffalo
 Nic Weishar,TE,Notre Dame
@@ -385,13 +385,13 @@ Isaiah Battle,OT,Clemson
 Willie Beavers,OT,Western Michigan
 Adrian Bellard,OT,Texas State
 Jonte Berry,OT,Northwest Missouri State
-Adam Bisnowaty,OT,Pittsburgh
+Adam Bisnowaty,OT,Pitt
 Lanard Bonner,OT,Arkansas State
 Cole Boozer,OT,Temple
-Kevin Bowen,OT,East Central (OK)
+Kevin Bowen,OT,East Central
 Michael Bowie,OT,Oklahoma State
 Darrell Brown,OT,Louisiana Tech
-Sean Brown,OT,Mississippi Valley State
+Sean Brown,OT,Ole Miss Valley State
 Kendall Calhoun,OT,Cincinnati
 Nick Callender,OT,Colorado State
 Blake Camper,OT,South Carolina
@@ -403,7 +403,7 @@ Michael Dunn,OT,Maryland
 Quinterrius Eatmon,OT,South Florida
 Cornelius Edison,OT,Portland State
 Justin Evans,OT,South Carolina State
-Tayo Fabuluje,OT,Texas Christian
+Tayo Fabuluje,OT,TCU
 Brian Fineanganofo,OT,Idaho State
 Cole Gardner,OT,Eastern Michigan
 Avery Gennesy,OT,Texas A&M
@@ -434,14 +434,14 @@ Lene Maiava,OT,Arizona
 Kamalie Matthews,OT,Murray State
 Eric Mayes,OT,South Florida
 Riley Mayfield,OT,North Texas
-Matt McCants,OT,Alabama-Birmingham
+Matt McCants,OT,UAB
 Craig McCorkle,OT,California (PA)
 Ty McCulley,OT,Colorado State-Pueblo
 Andrew McDonald,OT,Indiana
 Jamar McGloster,OT,Syracuse
 Aaron Monteiro,OT,Boston College
 Anthony Morris,OT,Tennessee State
-Christian Morris,OT,Mississippi
+Christian Morris,OT,Ole Miss
 Trae Moxley,OT,Colorado State
 Kyle Murphy,OT,Stanford
 Pace Murphy,OT,Northwestern State
@@ -464,37 +464,37 @@ Josiah Tonu,OT,Oregon Tech
 Casey Tucker,OT,Arizona State
 Logan Tuley-Tillman,OT,Michigan
 Dwayne Wallace,OT,Kansas
-Toby Weathersby,OT,Louisiana State
-De'Ondre Wesley,OT,Brigham Young
+Toby Weathersby,OT,LSU
+De'Ondre Wesley,OT,BYU
 Rathvon Williams,OT,Louisiana College
 Chasz Wright,OT,Penn State
-Tony Adams,OG,North Carolina State
+Tony Adams,OG,NC State
 Jordan Agasiva,OG,Utah
 Dejon Allen,OG,Hawaii
-Josh Allen,OG,Louisiana Monroe
+Josh Allen,OG,Louisiana-Monroe
 Kareem Are,OG,Florida State
 Kirk Barron,OG,Purdue
 Abdul Beecham,OG,Kansas State
 Mitchell Bell,OG,Louisiana Tech
 Wilson Bell,OG,Florida State
-Daronte Bouldin,OG,Mississippi
+Daronte Bouldin,OG,Ole Miss
 Venzell Boulware,OG,Tennessee
 Toree Boyd,OG,Howard
 Grant Branch,OG,Eastern Illinois
-Chris Brown,OG,Southern California
+Chris Brown,OG,USC
 Leon Brown,OG,Alabama
 Juwann Bushell-Beatty,OG,Michigan
 William Campbell,OG,Michigan
 Jake Campos,OG,Iowa State
 Shakir Carr,OG,Central Michigan
 Kyle Chung,OG,Virginia Tech
-Rishard Cook,OG,Alabama-Birmingham
+Rishard Cook,OG,UAB
 Anthony Coyle,OG,Fordham
 Christian Cronk,OG,Fresno State
 Ryan Cummings,OG,Wyoming
 Mason Denley,OG,Houston
 Jessamen Dunker,OG,Tennessee State
-Andrew Erbes,OG,Nevada-Las Vegas
+Andrew Erbes,OG,UNLV
 Isame Faciane,OG,Florida International
 Brandon Fanaika,OG,Stanford
 Chase Farris,OG,Ohio State
@@ -504,11 +504,11 @@ Zack Golditch,OG,Colorado State
 Jeremi Hall,OG,South Florida
 Isaiah Hardy,OG,West Virginia
 Sean Hickey,OG,Syracuse
-Trevin Huff,OG,Bethune Cookman
+Trevin Huff,OG,Bethune-Cookman
 Tre Jackson,OG,Florida State
 Jocquell Johnson,OG,Mississippi State
 Jahair Jones,OG,Miami (FL)
-Tuni Kanuch,OG,Brigham Young
+Tuni Kanuch,OG,BYU
 John Keenoy,OG,Western Michigan
 Zac Kerin,OG,Toledo
 Korren Kirven,OG,Alabama
@@ -517,7 +517,7 @@ Fred Lauina,OG,Oregon State
 Jovann Letuli,OG,Akron
 Marquis Lucas,OG,West Virginia
 Lamar Mady,OG,Youngstown State
-Damien Mama,OG,Southern California
+Damien Mama,OG,USC
 Bob Marco,OG,Washburn
 Lawrence Martin,OG,South Florida
 Chandler Miller,OG,Tulsa
@@ -525,17 +525,17 @@ Michael Miller,OG,Washburn
 Blake Muir,OG,Baylor
 Robert Myers,OG,Tennessee State
 Oni Omoile,OG,Iowa State
-Jac'que Polite,OG,Winston Salem
-Terron Prescod,OG,North Carolina State
-Norman Price,OG,Southern Mississippi
+Jac'que Polite,OG,Winston-Salem State
+Terron Prescod,OG,NC State
+Norman Price,OG,Southern Miss
 Cyril Richardson,OG,Baylor
-Maurquice Shakir,OG,Middle Tennessee State
+Maurquice Shakir,OG,Middle Tennessee
 Conor Sheehy,OG,Wisconsin
 Ian Silberman,OG,Boston College
 Nico Siragusa,OG,San Diego State
 Micah St. Andrew,OG,Fresno State
 Bunchy Stallings,OG,Kentucky
-Maea Teuhema,OG,Southeast Louisiana
+Maea Teuhema,OG,Southeastern Louisiana
 Dallas Thomas,OG,Tennessee
 Andrew Tiller,OG,Syracuse
 Marquez Tucker,OG,Southern Utah
@@ -549,10 +549,10 @@ Avery Young,OG,Auburn
 Ty Allen,OC,Tennessee State
 Ryan Anderson,OC,Wake Forest
 Alex Balducci,OC,Oregon
-Garrett Brumfield,OC,Louisiana State
+Garrett Brumfield,OC,LSU
 Freddie Burden,OC,Georgia Tech
 Matthew Cohen,OC,Lehigh
-DJ Coker,OC,Rhodes College
+DJ Coker,OC,Rhodes
 Parker Collins,OC,Appalachian State
 Dillon Day,OC,Mississippi State
 Dillon DeBoer,OC,Florida Atlantic
@@ -562,9 +562,9 @@ Austin Golson,OC,Auburn
 Steven Gurrola,OC,Arizona
 Vitas Hrynkiewicz,OC,Youngstown State
 Jacob Judd,OC,Western Illinois
-Tejan Koroma,OC,Brigham Young
+Tejan Koroma,OC,BYU
 Patrick Lewis,OC,Texas A&M
-Jordan McCray,OC,Central Florida
+Jordan McCray,OC,UCF
 Michael Montero,OC,Florida International
 James Murray,OC,Holy Cross
 James O'Hagan,OC,Buffalo
@@ -589,13 +589,13 @@ Kyle Cerge-Henderson,DT,Georgia Tech
 Austin Cieslak,DT,North Dakota State
 Khairi Clark,DT,Florida
 Winston Craig,DT,Richmond
-Malik Dorton,DT,Southern California
+Malik Dorton,DT,USC
 Bryce Douglas,DT,Northern Iowa
 BJ Dubose,DT,Louisville
-Josh Fatu,DT,Southern California
+Josh Fatu,DT,USC
 Will Geary,DT,Kansas State
 Youhanna Ghaifan,DT,Wyoming
-Tony Guerad,DT,Central Florida
+Tony Guerad,DT,UCF
 Darius Hamilton,DT,Rutgers
 Marcus Hardison,DT,Arizona State
 Tank Harris,DT,North Dakota
@@ -603,18 +603,18 @@ Jay Hayes,DT,Notre Dame
 Roderick Henderson,DT,Alabama State
 Ra'Zahn Howard,DT,Purdue
 Reggie Howard,DT,Toledo
-Ben Huss,DT,Duquense
+Ben Huss,DT,Duquesne
 Nick James,DT,Mississippi State
 Courtel Jenkins,DT,Miami (FL)
 Alexis Johnson,DT,Tennessee
-Anthony Johnson,DT,Louisiana State
+Anthony Johnson,DT,LSU
 Toby Johnson,DT,Georgia
 Davonte Lambert,DT,Auburn
 Duvonta Lampkin,DT,Oklahoma
-Jeremy Liggins,DT,Mississippi
+Jeremy Liggins,DT,Ole Miss
 Claudell Louis,DT,Fresno State
 Izaah Lunsford,DT,Bowling Green
-Caushaud Lyons,DT,Tusculum
+Caushaud Lyons,DT,Tusculum College
 Joey Mbu,DT,Houston
 Julian McKnight,DT,North Carolina A&T
 Adrian Middleton,DT,Kentucky
@@ -624,7 +624,7 @@ Leon Orr,DT,Florida
 Scott Pagano,DT,Clemson
 Walter Palmore,DT,Missouri
 Jake Payne,DT,Shenandoah
-Teko Powell,DT,Alabama-Birmingham
+Teko Powell,DT,UAB
 Elijah Qualls,DT,Washington
 Micanor Regis,DT,Miami (FL)
 Waylon Roberson,DT,Arkansas State
@@ -643,13 +643,13 @@ Kellen Soulek,DT,South Dakota State
 Tracy Sprinkle,DT,Ohio State
 Andrew Stelter,DT,Minnesota
 Will Sutton,DT,Arizona State
-Handsome Tanielu,DT,Brigham Young
+Handsome Tanielu,DT,BYU
 Pasoni Tasini,DT,Utah
 Larry Tharpe,DT,Arizona
 Jordan Thompson,DT,Northwestern
 Trenton Thompson,DT,Georgia
 Tyrell Thompson,DT,Tarleton State
-Khyri Thornton,DT,Southern Mississippi
+Khyri Thornton,DT,Southern Miss
 Nick Tompkins,DT,Dartmouth
 Charles Tuaau,DT,Texas A&M-Commerce
 Taniela Tupou,DT,Washington
@@ -657,7 +657,7 @@ Kalani Vakameilalo,DT,Oregon State
 Jordan Wade,DT,Oklahoma
 Cavon Walker,DT,Maryland
 Ricky Walker,DT,Virginia Tech
-Channing Ward,DT,Mississippi
+Channing Ward,DT,Ole Miss
 Nikita Whitlock,DT,Wake Forest
 Andrew Williams,DT,Auburn
 Roderick Young,DT,North Texas
@@ -666,7 +666,7 @@ Justin Alexandre,DE,Incarnate Word
 Kiante' Anderson,DE,East Carolina
 Andrew Ankrah,DE,James Madison
 Tavaris Barnes,DE,Clemson
-Justice Bishop,DE,Union (NY)
+Justice Bishop,DE,Union
 Jordan Bradford,DE,Louisiana Tech
 Quinton Bradley,DE,Idaho
 Johnathan Calvin,DE,Mississippi State
@@ -679,11 +679,11 @@ Brian Dolce,DE,Albany
 Kony Ealy,DE,Missouri
 Danny Ezechukwu,DE,Purdue
 Connor Flagel,DE,Central Missouri
-James Folston,DE,Pittsburgh
+James Folston,DE,Pitt
 Marcell Frazier,DE,Missouri
 KeShun Freeman,DE,Georgia Tech
 Christian French,DE,Oregon
-Jamell Garcia-Williams,DE,Alabama-Birmingham
+Jamell Garcia-Williams,DE,UAB
 Nick Giorgio,DE,Springfield
 Obum Gwacham,DE,Oregon State
 Charles Harris,DE,Buffalo
@@ -698,26 +698,26 @@ Alex Jenkins,DE,International
 Anthony Johnson,DE,Florida International
 George Johnson,DE,Rutgers
 Markus Jones,DE,Angelo State
-Shaq Jones,DE,Alabama-Birmingham
+Shaq Jones,DE,UAB
 Ulric Jones,DE,South Carolina
-Corbin Kaufusi,DE,Brigham Young
+Corbin Kaufusi,DE,BYU
 Brian Khoury,DE,Carnegie Mellon
 Hau'oli Kikaha,DE,Washington
 Meffy Koloamatangi,DE,Hawaii
 Austin Larkin,DE,Purdue
 Tramond Lofton,DE,Delta State
-Stansly Maponga,DE,Texas Christian
+Stansly Maponga,DE,TCU
 Jamal Marcus,DE,Akron
 Praise Martin-Oguike,DE,Temple
-Johnny Maxey,DE,Mars Hill
+Johnny Maxey,DE,Mars Hill College
 Willie Mays,DE,Tiffin
 Durrant Miles,DE,Boise State
-Sam Montgomery,DE,Louisiana State
+Sam Montgomery,DE,LSU
 Deiontrez Mount,DE,Louisville
 Ryan Mueller,DE,Kansas State
 Myles Nash,DE,Rutgers
 Dame Ndiaye,DE,Portland State
-Jason Neill,DE,Texas-San Antonio
+Jason Neill,DE,UTSA
 Shawn Oakman,DE,Baylor
 Victor Ochi,DE,Stony Brook
 Sydney Omameh,DE,Grand Valley State
@@ -726,14 +726,14 @@ Tenny Palepoi,DE,Utah
 Gimel President,DE,Illinois
 Quincy Redmon,DE,Fairmont State
 Cedric Reed,DE,Texas
-Taylor Reed,DE,Southern Methodist
+Taylor Reed,DE,SMU
 Michael Reynolds,DE,Kansas
 Bobby Richardson,DE,Indiana
-Gerald Rivers,DE,Mississippi
+Gerald Rivers,DE,Ole Miss
 Dante Sawyer,DE,South Carolina
 John Sheehy,DE,West Texas A&M
 Jacquies Smith,DE,Missouri
-Marlon Smith,DE,Texas-San Antonio
+Marlon Smith,DE,UTSA
 Justin Stewart,DE,Central Oklahoma
 Devin Taylor,DE,South Carolina
 Aaron Tiller,DE,Southern
@@ -741,9 +741,9 @@ Immanuel Turner,DE,Louisiana Tech
 Prince Unaegbu,DE,Pace
 Corey Vereen,DE,Tennessee
 Kevin Wilkins,DE,Rutgers
-Rykeem Yates,DE,Nevada-Reno
+Rykeem Yates,DE,Nevada
 Patrick Afriyie,LB,Colgate
-Donnie Alexander,LB,Louisiana State
+Donnie Alexander,LB,LSU
 Bryson Allen-Williams,LB,South Carolina
 Josh Banderas,LB,Nebraska
 Khalil Bass,LB,Portland State
@@ -759,7 +759,7 @@ Arthur Brown,LB,Kansas State
 Asantay Brown,LB,Western Michigan
 Beniquez Brown,LB,Mississippi State
 Terrance Bullitt,LB,Texas Tech
-Kaelin Burnett,LB,Nevada-Reno
+Kaelin Burnett,LB,Nevada
 Jonathan Celestin,LB,Minnesota
 Reshard Cliett,LB,South Florida
 Te'Von Coney,LB,Notre Dame
@@ -777,18 +777,18 @@ Jabril Frazier,LB,Boise State
 Kris Frost,LB,Auburn
 Alex Funches,LB,California
 Terence Garvin,LB,West Virginia
-DeMarquis Gates,LB,Mississippi
+DeMarquis Gates,LB,Ole Miss
 Quentin Gause,LB,Rutgers
 Frank Ginda,LB,San Jose State
 Khaseem Greene,LB,Rutgers
-Nicholas Grigsby,LB,Pittsburgh
+Nicholas Grigsby,LB,Pitt
 Jesse Hayes,LB,Wisconsin
 Ben Heeney,LB,Kansas
 D'Juan Hines,LB,Houston
 Ro'Derrick Hoskins,LB,Florida State
 Andrew Jackson,LB,Western Kentucky
 Jalen Johnson,LB,Georgia Tech
-Jawuan Johnson,LB,Texas Christian
+Jawuan Johnson,LB,TCU
 Kerron Johnson,LB,Coastal Carolina
 Steven Johnson,LB,Kansas
 Jordan Jones,LB,Kentucky
@@ -801,7 +801,7 @@ Joel Lanning,LB,Iowa State
 Brandon Lee,LB,Missouri
 Darnell Leslie,LB,Monmouth
 Drew Lewis,LB,Colorado
-Totauhelotu Lotulelei,LB,Nevada-Las Vegas
+Totauhelotu Lotulelei,LB,UNLV
 Kavika Luafatasaga,LB,Utah
 Jeff Luc,LB,Cincinnati
 Greer Martini,LB,Notre Dame
@@ -818,13 +818,13 @@ Gionni Paul,LB,Utah
 Brandon Payer,LB,Colorado State-Pueblo
 Peyton Pelluer,LB,Washington State
 Eric Pinkins,LB,San Diego State
-Terrance Plummer,LB,Central Florida
+Terrance Plummer,LB,UCF
 Kyle Queiro,LB,Northwestern
 Johnny Ragin,LB,Oregon
 Jon Reschke,LB,Michigan State
-Edmond Robinson,LB,Newberry
+Edmond Robinson,LB,Newberry College
 Javon Rolland-Jones,LB,Arkansas State
-Anthony Sarao,LB,Southern California
+Anthony Sarao,LB,USC
 Tegray Scales,LB,Indiana
 Ty Schwab,LB,Boston College
 Michael Shaw,LB,Georgia Southern
@@ -853,19 +853,19 @@ Scooby Wright,LB,Arizona
 Juwon Young,LB,Marshall
 Tenny Adewusi,CB,Delaware
 Jude Adjei-Barimah,CB,Bowling Green
-Terrence Alexander,CB,Louisiana State
+Terrence Alexander,CB,LSU
 Elijah Battle,CB,West Virginia
 Malik Boynton,CB,Austin Peay
 Donatello Brown,CB,Valdosta State
 Ray Buchanan Jr,CB,Northern Iowa
-Trey Caldwell,CB,Louisiana Monroe
+Trey Caldwell,CB,Louisiana-Monroe
 Elijah Campbell,CB,Northern Iowa
 Bryce Canady,CB,Florida International
-Rashard Causey,CB,Central Florida
+Rashard Causey,CB,UCF
 Bryce Cheek,CB,Akron
-Reggie Cole,CB,Mary Hardin Baylor
+Reggie Cole,CB,Mary Hardin-Baylor
 Qua Cox,CB,Jackson State
-Brandin Dandridge,CB,Missouri Western
+Brandin Dandridge,CB,Missouri Western State
 Chris Davis,CB,Auburn
 Davante Davis,CB,Texas
 Jhavonte Dean,CB,Miami (FL)
@@ -882,35 +882,35 @@ Doran Grant,CB,Ohio State
 Ladarius Gunter,CB,Miami (FL)
 Heath Harding,CB,Miami (OH)
 Josh Hawkins,CB,East Carolina
-Will Hines,CB,Southeast Louisiana
+Will Hines,CB,Southeastern Louisiana
 Tyree Holder,CB,Ball State
 Tyrin Holloway,CB,Western Illinois
 Demontre Hurst,CB,Oklahoma
 Charles James,CB,Charleston Southern
 Joshua Jenkins,CB,Army
-Jeremiah Johnson,CB,Concord (WV)
+Jeremiah Johnson,CB,Concord
 Anthoula Kelly,CB,Fresno State
 Brendan Langley,CB,Lamar
 Desmond Lawrence,CB,North Carolina
-Travis Lee,CB,Miles
+Travis Lee,CB,Miles College
 Bradford Lemmons,CB,Furman
 Shelton Lewis,CB,Florida Atlantic
-Jay Liggins,CB,Dickinson State
+Jay Liggins,CB,Dickinson
 Christopher Love,CB,East Carolina
 Justin Martin,CB,Tennessee
 Tre Mathis,CB,Toledo
 Jeremiah McKinnon,CB,Florida International
-Harlan Miller,CB,Southeast Louisiana
+Harlan Miller,CB,Southeastern Louisiana
 Dakari Monroe,CB,San Jose State
 C.J Moore,CB,North Carolina Central
-Sterling Moore,CB,Southern Methodist
+Sterling Moore,CB,SMU
 KJ Morton,CB,Baylor
-Darius Mouton,CB,Nevada-Las Vegas
+Darius Mouton,CB,UNLV
 Najee Murray,CB,Kent State
 Jalen Myrick,CB,Minnesota
 DeJuan Neal,CB,Shepherd
 J.R. Nelson,CB,Montana
-Picasso Nelson,CB,Southern Mississippi
+Picasso Nelson,CB,Southern Miss
 Robert Nelson,CB,Arizona State
 Deatrick Nichols,CB,South Florida
 Deji Olatoye,CB,North Carolina A&T
@@ -918,8 +918,8 @@ Brian Peavy,CB,Iowa State
 Aarion Penton,CB,Missouri
 Jamal Peters,CB,Mississippi State
 Dashaun Phillips,CB,Tarleton State
-Jermaine Ponder,CB,St. Francis
-Jackson Porter,CB,Massachusettes
+Jermaine Ponder,CB,Saint Francis
+Jackson Porter,CB,Massachusetts
 Raysean Pringle,CB,Southern Utah
 Joseph Putu,CB,Florida
 Rodney Randle,CB,Lamar
@@ -938,18 +938,18 @@ David Simmons,CB,North Park
 Albert Smalls,CB,Northern Illinois
 C.J. Smith,CB,North Dakota State
 Arrion Springs,CB,Oregon
-Mike Stevens,CB,North Carolina State
+Mike Stevens,CB,NC State
 Channing Stribling,CB,Michigan
 Jamar Summers,CB,Connecticut
 Bradley Sylve,CB,Alabama
 Arnold Tarpley,CB,Vanderbilt
 Roman Tatum,CB,Southern Illinois
 Robert Taylor,CB,Washington State
-Ranthony Texada,CB,Texas Christian
-Brayleon Thorns,CB,Southeast Louisiana
-Jack Tocho,CB,North Carolina State
+Ranthony Texada,CB,TCU
+Brayleon Thorns,CB,Southeastern Louisiana
+Jack Tocho,CB,NC State
 D'Montre Wade,CB,Murray State
-Zeke Walker,CB,Southeast Louisiana
+Zeke Walker,CB,Southeastern Louisiana
 Cleveland Wallace,CB,San Jose State
 Malik Warner,CB,Wagner
 Herb Waters,CB,Miami (FL)
@@ -963,11 +963,11 @@ Jamarkese Williams,CB,Incarnate Word
 Omari Williams,CB,Samford
 Raekwon Williams,CB,Florida Atlantic
 Steve Williams,CB,California
-Khalid Wooten,CB,Nevada-Reno
-Jordan Wyatt,CB,Southern Methodist
+Khalid Wooten,CB,Nevada
+Jordan Wyatt,CB,SMU
 Devin Abraham,SAF,South Florida
 Kendall Adams,SAF,Kansas State
-Jarell Addo,SAF,Massachusettes
+Jarell Addo,SAF,Massachusetts
 Dravon Askew-Henry,SAF,West Virginia
 Parker Baldwin,SAF,San Diego State
 Marcus Ball,SAF,Memphis
@@ -986,18 +986,18 @@ Demetrious Cox,SAF,Michigan State
 Erick Dargan,SAF,Oregon
 Garrett Davis,SAF,Houston
 Lukas Denis,SAF,Boston College
-Marsean Diggs,SAF,Alabama-Birmingham
+Marsean Diggs,SAF,UAB
 K.J. Dillon,SAF,West Virginia
 Ahmad Dixon,SAF,Baylor
 Kurtis Drummond,SAF,Michigan State
 SaQwan Edwards,SAF,New Mexico
 Matt Elam,SAF,Florida
-Trae Elston,SAF,Mississippi
-Kyle Gibson,SAF,Central Florida
+Trae Elston,SAF,Ole Miss
+Kyle Gibson,SAF,UCF
 Randall Goforth,SAF,UCLA
 Tyson Graham,SAF,South Dakota
 John Green,SAF,Connecticut
-Micah Hannemann,SAF,Brigham Young
+Micah Hannemann,SAF,BYU
 Jalen Harvey,SAF,Arizona State
 Zuril Hendrick,SAF,Edinboro
 Will Hill,SAF,Florida
@@ -1009,11 +1009,11 @@ Hootie Jones,SAF,Alabama
 Ray Jones,SAF,Delaware
 Tyree Kinnel,SAF,Michigan
 Christian Love,SAF,Henderson State
-Max Lyons,SAF,Southeast Louisiana
+Max Lyons,SAF,Southeastern Louisiana
 Tyrell Lyons,SAF,Valdosta State
 Brandon Maiden,SAF,Jackson State
 Jordan Martin,SAF,Syracuse
-Ronald Martin,SAF,Louisiana State
+Ronald Martin,SAF,LSU
 Dexter McCoil,SAF,Toledo
 Danzel McDaniel,SAF,Kansas State
 Jojo McIntosh,SAF,Washington
@@ -1025,14 +1025,14 @@ Ryan Moeller,SAF,Colorado
 Joshua Moon,SAF,Georgia Southern
 Rahim Moore,SAF,UCLA
 Jacob Onyechi,SAF,Air Force
-Nick Orr,SAF,Texas Christian
+Nick Orr,SAF,TCU
 Fred Payne,SAF,Western Carolina
 Joe Powell,SAF,Globe Tech
-Jordan Powell,SAF,Widner
+Jordan Powell,SAF,Widener
 Robert Priester,SAF,Wyoming
 Santos Ramirez,SAF,Arkansas
 Delvon Randall,SAF,Temple
-Mandell Ray,SAF,Morehouse
+Mandell Ray,SAF,Morehouse College
 Max Redfield,SAF,Indiana (PA)
 Ed Reynolds,SAF,Stanford
 Stephen Roberts,SAF,Auburn
@@ -1049,7 +1049,7 @@ Aaron Taylor,SAF,Ball State
 Gregory Taylor,SAF,Wesley
 Robenson Therezie,SAF,Auburn
 Jake Thienman,SAF,Purdue
-Marvin Tillman,SAF,West Carolina
+Marvin Tillman,SAF,Western Carolina
 Damarius Travis,SAF,Minnesota
 Jeremy Tyler,SAF,West Virginia
 Verkedric Vaughns,SAF,Baylor
@@ -1063,7 +1063,7 @@ Kieron Williams,SAF,Nebraska
 Evan Worthington,SAF,Colorado
 Roberto Aguayo,K,Florida State
 John Baron,K,San Diego State
-Tyler Basch,K,Missouri Western
+Tyler Basch,K,Missouri Western State
 Andrew Franks,K,RPI
 Elliott Fry,K,South Carolina
 Josh Gable,K,No College
@@ -1077,9 +1077,9 @@ Erik Powell,K,Washington State
 Ty Rausa,K,Boise State
 Taylor Russolino,K,Millsaps
 Ryan Santoso,K,Minnesota
-Cole Tracy,K,Louisiana State
+Cole Tracy,K,LSU
 Tristan Vizcaino,K,Washington
-Matthew Wright,K,Central Florida
+Matthew Wright,K,UCF
 Ryan Anderson,P,Rutgers
 Ian Berryman,P,Western Carolina
 Cory Carter,P,Texas Southern
@@ -1092,20 +1092,20 @@ Tyler Newsome,P,Notre Dame
 Hunter Niswander,P,Northwestern
 Cameron Nizialek,P,Georgia
 Austin Rehkow,P,Idaho
-Colton Schmidt,P,California-Davis
+Colton Schmidt,P,UC Davis
 Jake Schum,P,Buffalo
 Sean Smith,P,Dayton
 Taylor Symmank,P,Texas Tech
 Shane Tripucka,P,Texas A&M
 Justin Vogel,P,Miami (FL)
-Brad Wing,P,Louisiana State
+Brad Wing,P,LSU
 Joseph Zema,P,Incarnate Word
 Noah Borden,LS,Hawaii
 Nate Boyer,LS,Texas
 Tanner Carew,LS,Oregon
 Scott Daly,LS,Notre Dame
 Ryan DiSalvo,LS,San Jose State
-Wes Farnsworth,LS,Nevada-Reno
+Wes Farnsworth,LS,Nevada
 Drew Ferris,LS,Florida
 James Fisher,LS,North Dakota State
 Joe Fortunato,LS,Delaware
