@@ -1,0 +1,626 @@
+[
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Brigham Young\",\"BYU\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Brigham Young\",\"BYU\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Central Florida\",\"UCF\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Central Florida\",\"UCF\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"East Central (OK)\",\"East Central\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"East Central (OK)\",\"East Central\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Louisiana State\",\"LSU\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Louisiana State\",\"LSU\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Pittsburgh\",\"Pitt\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Pittsburgh\",\"Pitt\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Texas-El Paso\",\"UTEP\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Texas-El Paso\",\"UTEP\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Middle Tennessee State\",\"Middle Tennessee\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Middle Tennessee State\",\"Middle Tennessee\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Bethune Cookman\",\"Bethune-Cookman\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Bethune Cookman\",\"Bethune-Cookman\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Texas Christian\",\"TCU\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Texas Christian\",\"TCU\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Nevada-Las Vegas\",\"UNLV\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Nevada-Las Vegas\",\"UNLV\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Southern California\",\"USC\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Southern California\",\"USC\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Massachusettes\",\"Massachusetts\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Massachusettes\",\"Massachusetts\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Franklin College\",\"Franklin\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Franklin College\",\"Franklin\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Southern Mississippi\",\"Southern Miss\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Southern Mississippi\",\"Southern Miss\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Mississippi State\",\"MSST\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Mississippi State\",\"MSST\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Mississippi\",\"Ole Miss\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Mississippi\",\"Ole Miss\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"MSST\",\"Mississippi State\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"MSST\",\"Mississippi State\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Mary Hardin Baylor\",\"Mary Hardin-Baylor\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Mary Hardin Baylor\",\"Mary Hardin-Baylor\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"American\",\"American International College\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"American\",\"American International College\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"North Carolina State\",\"NC State\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"North Carolina State\",\"NC State\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Catawba\",\"Catawba College\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Catawba\",\"Catawba College\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Wisconsin-Stout\",\"UW-Stout\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Wisconsin-Stout\",\"UW-Stout\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Texas-San Antonio\",\"UTSA\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Texas-San Antonio\",\"UTSA\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Nevada-Reno\",\"Nevada\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Nevada-Reno\",\"Nevada\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Stenson\",\"Stetson\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Stenson\",\"Stetson\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Tennessee-Martin\",\"UT Martin\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Tennessee-Martin\",\"UT Martin\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Grand Rapids JC\",\"Grand Rapids\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Grand Rapids JC\",\"Grand Rapids\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Western Connecticut State\",\"Western Connecticut\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Western Connecticut State\",\"Western Connecticut\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Alabama-Birmingham\",\"UAB\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Alabama-Birmingham\",\"UAB\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Louisiana Monroe\",\"Louisiana-Monroe\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Louisiana Monroe\",\"Louisiana-Monroe\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Winston Salem\",\"Winston-Salem State\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Winston Salem\",\"Winston-Salem State\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Southeast Louisiana\",\"Southeastern Louisiana\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Southeast Louisiana\",\"Southeastern Louisiana\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Rhodes College\",\"Rhodes\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Rhodes College\",\"Rhodes\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Duquense\",\"Duquesne\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Duquense\",\"Duquesne\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Tusculum\",\"Tusculum College\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Tusculum\",\"Tusculum College\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Union (NY)\",\"Union\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Union (NY)\",\"Union\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Mars Hill\",\"Mars Hill College\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Mars Hill\",\"Mars Hill College\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Southern Methodist\",\"SMU\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Southern Methodist\",\"SMU\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Newberry\",\"Newberry College\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Newberry\",\"Newberry College\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Missouri Western\",\"Missouri Western State\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Missouri Western\",\"Missouri Western State\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Concord (WV)\",\"Concord\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Concord (WV)\",\"Concord\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Miles\",\"Miles College\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Miles\",\"Miles College\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Dickinson State\",\"Dickinson\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Dickinson State\",\"Dickinson\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"St. Francis\",\"Saint Francis\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"St. Francis\",\"Saint Francis\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Widner\",\"Widener\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Widner\",\"Widener\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"Morehouse\",\"Morehouse College\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"Morehouse\",\"Morehouse College\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"West Carolina\",\"Western Carolina\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"West Carolina\",\"Western Carolina\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLLEGE",
+    "expression": "value.replace(\"California-Davis\",\"UC Davis\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column COLLEGE using expression value.replace(\"California-Davis\",\"UC Davis\")"
+  }
+]

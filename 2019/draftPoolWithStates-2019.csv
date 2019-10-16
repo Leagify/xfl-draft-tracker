@@ -7,13 +7,13 @@ Alejandro Bennifield,QB,Chattanooga,FCS,Tennessee
 Joe Callahan,QB,Wesley,D3,Delaware
 KJ Carta-Samuels,QB,Colorado State,FBS - Mountain West,Colorado
 Taryn Christion,QB,South Dakota State,FCS,South Dakota
-CJ Collins,QB,Southwest Assembly of God,,
+CJ Collins,QB,Southwest Assembly of God,NAIA,Texas
 Connor Cook,QB,Michigan State,Big Ten,Michigan
 Taylor Cornelius,QB,Oklahoma State,Big 12,Oklahoma
-David Cornwell,QB,East Central (OK),,
+David Cornwell,QB,East Central,D2,Oklahoma
 BJ Daniels,QB,South Florida,FBS - AAC,Florida
 Garrett Fugate,QB,Central Missouri,D2,Missouri
-Justin Holman,QB,Central Florida,,
+Justin Holman,QB,UCF,FBS - AAC,Florida
 Tyree Jackson,QB,Buffalo,FBS - MAC,New York
 Devante Kincade,QB,Grambling State,FCS,Louisiana
 Trevor Knight,QB,Texas A&M,SEC,Texas
@@ -21,12 +21,12 @@ Tanner Lee,QB,Nebraska,Big Ten,Nebraska
 Vad Lee,QB,James Madison,FCS,Virginia
 Matt Linehan,QB,Idaho,FBS - Sun Belt,Idaho
 TJ Linta,QB,Wagner,FCS,New York
-Tanner Mangum,QB,Brigham Young,,
+Tanner Mangum,QB,BYU,FBS - Independent,Utah
 Jalan McClendon,QB,Baylor,Big 12,Texas
 Marcus McDade,QB,Sacramento State,FCS,California
 Greg McGhee,QB,Howard,FCS,Washington DC
 Marcus McMaryion,QB,Fresno State,FBS - Mountain West,California
-Zach Mettenberger,QB,Louisiana State,,
+Zach Mettenberger,QB,LSU,SEC,Louisiana
 Philip Nelson,QB,East Carolina,FBS - AAC,North Carolina
 Keith Price,QB,Washington,Pac 12,Washington
 Peter Pujals,QB,Holy Cross,FCS,Massachusetts
@@ -38,7 +38,7 @@ Patrick Towles,QB,Boston College,ACC,Massachusetts
 Marquise Williams,QB,North Carolina,ACC,North Carolina
 Khalid Abdullah,RB,James Madison,FCS,Virginia
 Cameron Artis-Payne,RB,Auburn,SEC,Alabama
-George Aston,RB,Pittsburgh,,
+George Aston,RB,Pitt,ACC,Pennsylvania
 Sherman Badie,RB,Tulane,FBS - AAC,Louisiana
 Jonathan Banks,RB,Tulane,FBS - AAC,Louisiana
 Alex Barnes,RB,Kansas State,Big 12,Kansas
@@ -53,7 +53,7 @@ Lavon Coleman,RB,Washington,Pac 12,Washington
 Tim Cook,RB,Oregon State,Pac 12,Oregon
 Marshaun Coprich,RB,Illinois State,FCS,Illinois
 Noel Devine,RB,West Virginia,Big 12,West Virginia
-Winston Dimel,RB,Texas-El Paso,,
+Winston Dimel,RB,UTEP,FBS - CUSA,Texas
 Lance Dunbar,RB,North Texas,FBS - CUSA,Texas
 Brionte Dunn,RB,Ohio State,Big Ten,Ohio
 Berkley Edwards,RB,Michigan,Big Ten,Michigan
@@ -64,37 +64,37 @@ Dimitri Flowers,RB,Oklahoma,Big 12,Oklahoma
 Quinton Flowers,RB,South Florida,FBS - AAC,Florida
 Tarean Folston,RB,Notre Dame,FBS - Independent,Indiana
 Keith Ford,RB,Texas A&M,SEC,Texas
-Mike Ford,RB,Louisiana State,,
+Mike Ford,RB,LSU,SEC,Louisiana
 Khris Francis,RB,North Carolina,ACC,North Carolina
 Jarvion Franklin,RB,Western Michigan,FBS - MAC,Michigan
 Ja'Quan Gardner,RB,Humboldt State,D2,California
-Manasseh Garner,RB,Pittsburgh,,
-Jakhari Gore,RB,Marian,,
+Manasseh Garner,RB,Pitt,ACC,Pennsylvania
+Jakhari Gore,RB,Marian,NAIA,Indiana
 Jonas Gray,RB,Notre Dame,FBS - Independent,Indiana
 Trayone Gray,RB,Miami (FL),ACC,Florida
 Ryan Green,RB,Florida State,ACC,Florida
 Dujuan Harris,RB,Troy,FBS - Sun Belt,Alabama
 Mark Herndon,RB,Florida,SEC,Florida
-Kyle Hicks,RB,Texas Christian,,
-Kenny Hilliard,RB,Louisiana State,,
-Darnell Holland,RB,Kennesaw State,,
+Kyle Hicks,RB,TCU,Big 12,Texas
+Kenny Hilliard,RB,LSU,SEC,Louisiana
+Darnell Holland,RB,Kennesaw State,FCS,Georgia
 Nick Holley,RB,Kent State,FBS - MAC,Ohio
 Elijah Hood,RB,North Carolina,ACC,North Carolina
 Akeem Hunt,RB,Purdue,Big Ten,Indiana
 Ty Isaac,RB,Michigan,Big Ten,Michigan
 Devontae Jackson,RB,West Georgia,D2,Georgia
 Cardon Johnson,RB,James Madison,FCS,Virginia
-Storm Johnson,RB,Central Florida,,
+Storm Johnson,RB,UCF,FBS - AAC,Florida
 De'Shawn Jones,RB,Campbell,FCS,North Carolina
 Matt Jones,RB,Florida,SEC,Florida
 Kendial Lawrence,RB,Missouri,SEC,Missouri
 Ray Lawry,RB,Old Dominion,FBS - CUSA,Virginia
 Taku Lee,RB,International,,
-Terrence Magee,RB,Louisiana State,,
+Terrence Magee,RB,LSU,SEC,Louisiana
 D.J. May,RB,Wyoming,FBS - Mountain West,Wyoming
 Travon McMillian,RB,Colorado,Pac 12,Colorado
 Christine Michael,RB,Texas A&M,SEC,Texas
-JD Moore,RB,Louisiana State,,
+JD Moore,RB,LSU,SEC,Louisiana
 Rajion Neal,RB,Tennessee,SEC,Tennessee
 Cedric O'Neal,RB,Valdosta State,D2,Georgia
 Branden Oliver,RB,Buffalo,FBS - MAC,New York
@@ -117,14 +117,14 @@ Dontae Strickland,RB,Syracuse,ACC,New York
 Kelvin Taylor,RB,Florida,SEC,Florida
 Jahad Thomas,RB,Temple,FBS - AAC,Pennsylvania
 John Thomas,RB,Penn State,Big Ten,Pennsylvania
-Lexington Thomas,RB,Nevada-Las Vegas,,
+Lexington Thomas,RB,UNLV,FBS - Mountain West,Nevada
 Mark Thompson,RB,Florida,SEC,Florida
 Lenard Tillery,RB,Southern,FCS,Louisiana
 Xavier Turner,RB,Incarnate Word,FCS,Texas
 Darius Victor,RB,Towson,FCS,Maryland
 Akrum Wadley,RB,Iowa,Big Ten,Iowa
 Terron Ward,RB,Oregon State,Pac 12,Oregon
-Aca'Cedric Ware,RB,Southern California,,
+Aca'Cedric Ware,RB,USC,Pac 12,California
 Mike Warren,RB,Iowa State,Big 12,Iowa
 Trey Watts,RB,Tulsa,FBS - AAC,Oklahoma
 Jody Webb,RB,Youngstown State,FCS,Ohio
@@ -136,12 +136,12 @@ James Williams,RB,Washington State,Pac 12,Washington
 Malik Williams,RB,Louisville,ACC,Kentucky
 Marquez Williams,RB,Miami (FL),ACC,Florida
 Trey Williams,RB,Texas A&M,SEC,Texas
-Marquis Young,RB,Massachusettes,,
+Marquis Young,RB,Massachusetts,FBS - MAC,Massachusetts
 Ryan Yurachek,RB,Marshall,FBS - CUSA,West Virginia
 Carlton Agudosi,WR,Rutgers,Big Ten,New Jersey
-Deontez Alexander,WR,Franklin College,,
-Floyd Allen,WR,Mississippi,,
-Anthony Amos,WR,Middle Tennessee State,,
+Deontez Alexander,WR,Franklin,D3,Indiana
+Floyd Allen,WR,Ole Miss,SEC,Mississippi
+Anthony Amos,WR,Middle Tennessee,FBS - CUSA,Tennessee
 Dres Anderson,WR,Utah,Pac 12,Utah
 Demarcus Ayers,WR,Houston,FBS - AAC,Texas
 Jeff Badet,WR,Oklahoma,Big 12,Oklahoma
@@ -149,7 +149,7 @@ Kenny Bell,WR,Nebraska,Big Ten,Nebraska
 Raymond Bolden,WR,Stony Brook,FCS,New York
 Marvin Bracy-Williams,WR,Florida State,ACC,Florida
 Jack Bramswig,WR,Boston College,ACC,Massachusetts
-Frank Brown,WR,Bethune Cookman,,
+Frank Brown,WR,Bethune-Cookman,FCS,Florida
 Ryan Broyles,WR,Oklahoma,Big 12,Oklahoma
 Dontez Byrd,WR,Tennessee Tech,FCS,Tennessee
 KD Cannon,WR,Baylor,Big 12,Texas
@@ -161,15 +161,15 @@ Rashard Davis,WR,James Madison,FCS,Virginia
 Ryan Davis,WR,Auburn,SEC,Alabama
 Kahlil Dawson,WR,Portland State,FCS,Oregon
 Delfonte Diamond,WR,McMurry,D2,Texas
-John Diarse,WR,Texas Christian,,
+John Diarse,WR,TCU,Big 12,Texas
 Kenzel Doe,WR,Wisconsin,Big Ten,Wisconsin
 Steven Dunbar,WR,Houston,FBS - AAC,Texas
-Travin Dural,WR,Louisiana State,,
+Travin Dural,WR,LSU,SEC,Louisiana
 Donteea Dye,WR,Heidelberg,D3,Ohio
 Ed Eagan,WR,Northwestern State,FCS,Louisiana
 Matthew Eaton,WR,Iowa State,Big 12,Iowa
 DeVozea Felton,WR,Tuskegee,D2,Alabama
-Dontez Ford,WR,Pittsburgh,,
+Dontez Ford,WR,Pitt,ACC,Pennsylvania
 Jacoby Ford,WR,Clemson,ACC,South Carolina
 Armanti Foreman,WR,Texas,Big 12,Texas
 Jordon Gandy,WR,Murray State,FCS,Kentucky
@@ -179,18 +179,18 @@ Devin Gray,WR,Cincinnati,FBS - AAC,Ohio
 Donald Gray,WR,Mississippi State,SEC,Mississippi
 Davon Grayson,WR,East Carolina,FBS - AAC,North Carolina
 Jalen Greene,WR,Utah State,FBS - Mountain West,Utah
-Antoine Griffin,WR,West Florida,,
+Antoine Griffin,WR,West Florida,D2,Florida
 Fabian Guerra,WR,Fairmont State,D2,West Virginia
 Jalen Guyton,WR,North Texas,FBS - CUSA,Texas
-Rannell Hall,WR,Central Florida,,
+Rannell Hall,WR,UCF,FBS - AAC,Florida
 Karel Hamilton,WR,Samford,FCS,Alabama
-DeQuan Hampton,WR,Southern California,,
+DeQuan Hampton,WR,USC,Pac 12,California
 J-Shun Harris,WR,Indiana,Big Ten,Indiana
 Delane Hart-Johnson,WR,New Mexico,FBS - Mountain West,New Mexico
 Matt Hazel,WR,Coastal Carolina,FCS,South Carolina
 Jerrod Heard,WR,Texas,Big 12,Texas
 Dominique Heath,WR,Appalachian State,FBS - Sun Belt,North Carolina
-Quadree Henderson,WR,Pittsburgh,,
+Quadree Henderson,WR,Pitt,ACC,Pennsylvania
 Timmy Hernandez,WR,Oregon State,Pac 12,Oregon
 Treydonte Hill,WR,Western New Mexico,D2,New Mexico
 Mikah Holder,WR,San Diego State,FBS - Mountain West,California
@@ -200,17 +200,17 @@ Joe Horn Jr,WR,Missouri Western State,D2,Missouri
 Alton Howard,WR,Tennessee,SEC,Tennessee
 Johnathan Howard,WR,North Carolina,ACC,North Carolina
 Chris Hubert,WR,Fayetteville State,D2,North Carolina
-Isaiah Huston,WR,Arizona Christian,,
+Isaiah Huston,WR,Arizona Christian,NAIA,Arizona
 Ishmael Hyman,WR,James Madison,FCS,Virginia
 Trenton Irwin,WR,Stanford,Pac 12,California
-Blake Jackson,WR,Mary Hardin Baylor,,
+Blake Jackson,WR,Mary Hardin-Baylor,D3,Texas
 Chuck Jacobs,WR,Utah State,FBS - Mountain West,Utah
 Taivon Jacobs,WR,Maryland,Big Ten,Maryland
 Levern Jacobs III,WR,Maryland,Big Ten,Maryland
 Damion Jeanpiere,WR,Nicholls State,FCS,Louisiana
 Adonis Jennings,WR,Temple,FBS - AAC,Pennsylvania
 Garrett Johnson,WR,Kentucky,SEC,Kentucky
-Charlie Jones,WR,American,,
+Charlie Jones,WR,American International College,D2,Massachusetts
 Jamaal Jones,WR,Montana,FCS,Montana
 Malachi Jones,WR,Appalachian State,FBS - Sun Belt,North Carolina
 Seantavius Jones,WR,Valdosta State,D2,Georgia
@@ -219,17 +219,17 @@ Anthony Kelly,WR,Kutztown,D2,Pennsylvania
 Jordan Lasley,WR,UCLA,Pac 12,California
 Terrence Lee-Alls,WR,James Madison,FCS,Virginia
 Ralph Leonard,WR,Southern Illinois,FCS,Illinois
-Jordan Leslie,WR,Brigham Young,,
+Jordan Leslie,WR,BYU,FBS - Independent,Utah
 Kahlil Lewis,WR,Cincinnati,FBS - AAC,Ohio
 TommyLee Lewis,WR,Northern Illinois,FBS - MAC,Illinois
 Justice Liggins,WR,Stephen F. Austin,FCS,Texas
-Stephen Louis,WR,North Carolina State,,
+Stephen Louis,WR,NC State,ACC,North Carolina
 Yedidiah Louis,WR,Sam Houston State,FCS,Texas
 Keevan Lucas,WR,Tulsa,FBS - AAC,Oklahoma
 Marcus Lucas,WR,Missouri,SEC,Missouri
 Devin Lucien,WR,Arizona State,Pac 12,Arizona
 Tim Lukas,WR,Illinois,Big Ten,Illinois
-Rhyeem Malone,WR,Louisiana,,
+Rhyeem Malone,WR,Louisiana,FBS - Sun Belt,Louisiana
 Freddie Martino,WR,North Greenville,D2,South Carolina
 KJ Maye,WR,Minnesota,Big Ten,Minnesota
 Tre McBride,WR,William & Mary,FCS,Virginia
@@ -241,7 +241,7 @@ Gary McKnight,WR,Northeastern State,D2,Oklahoma
 Kelvin McKnight,WR,Samford,FCS,Alabama
 Robert Meachem,WR,Tennessee,SEC,Tennessee
 Octayvius Miles,WR,Alabama A&M,FCS,Alabama
-Sam Mobley,WR,Catawba,,
+Sam Mobley,WR,Catawba College,D2,North Carolina
 Alonzo Moore,WR,Nebraska,Big Ten,Nebraska
 Richard Mullaney,WR,Oregon State,Pac 12,Oregon
 Keith Mumphery,WR,Michigan State,Big Ten,Michigan
@@ -250,22 +250,22 @@ Flynn Nagel,WR,Northwestern,Big Ten,Illinois
 Durron Neal,WR,Oklahoma,Big 12,Oklahoma
 Thomas Owens,WR,Florida International,FBS - CUSA,Florida
 Tyler Palka,WR,Gannon,D2,Pennsylvania
-Tobais Palmer,WR,North Carolina State,,
+Tobais Palmer,WR,NC State,ACC,North Carolina
 Vinny Papale,WR,Delaware,FCS,Delaware
 Damoun Patterson,WR,Youngstown State,FCS,Ohio
-Colby Pearson,WR,Brigham Young,,
+Colby Pearson,WR,BYU,FBS - Independent,Utah
 Troy Pelletier,WR,Lehigh,FCS,Pennsylvania
 Ervin Philips,WR,Syracuse,ACC,New York
 Cam Phillips,WR,Virginia Tech,ACC,Virginia
 De'Mornay Pierson-El,WR,Nebraska,Big Ten,Nebraska
 Edgar Poe,WR,Army,FBS - Independent,Kansas
-Darius Prince,WR,Penn State-Beaver,,
+Darius Prince,WR,Penn State-Beaver,USCAA,Pennsylvania
 Austin Proehl,WR,North Carolina,ACC,North Carolina
 James Quick,WR,Louisville,ACC,Kentucky
 Willie Quinn,WR,Southern,FCS,Louisiana
 Brandon Reilly,WR,Nebraska,Big Ten,Nebraska
 Keenan Reynolds,WR,Navy,FBS - AAC,Maryland
-Korey Robertson,WR,Southern Mississippi,,
+Korey Robertson,WR,Southern Miss,FBS - CUSA,Mississippi
 Fred Ross,WR,Mississippi State,SEC,Mississippi
 Kayaune Ross,WR,Kentucky,SEC,Kentucky
 Rashad Ross,WR,Arizona State,Pac 12,Arizona
@@ -273,7 +273,7 @@ Jalen Rowell,WR,Air Force,FBS - Mountain West,Colorado
 Ezell Ruffin,WR,San Diego State,FBS - Mountain West,California
 Xavier Rush,WR,Tulane,FBS - AAC,Louisiana
 Alonzo Russell,WR,Toledo,FBS - MAC,Ohio
-Brian Sandifer,WR,Wisconsin-Stout,,
+Brian Sandifer,WR,UW-Stout,D3,Wisconsin
 John Santiago,WR,North Dakota,FCS,North Dakota
 Jalen Saunders,WR,Oklahoma,Big 12,Oklahoma
 Qua Searcy,WR,Georgia Tech,ACC,Georgia
@@ -286,15 +286,15 @@ Patrick Smith,WR,Tennessee State,FCS,Tennessee
 Riley Smith,WR,West Texas A&M,D2,Texas
 Kamrin Solomon,WR,Florida Atlantic,FBS - CUSA,Florida
 Nelson Spruce,WR,Colorado,Pac 12,Colorado
-Josh Stewart,WR,Texas-San Antonio,,
+Josh Stewart,WR,UTSA,FBS - CUSA,Texas
 Kyle Sweet,WR,Washington State,Pac 12,Washington
-Ron'Quavion Tarver,WR,Nevada-Reno,,
+Ron'Quavion Tarver,WR,Nevada,FBS - Mountain West,Nevada
 Justin Thomas,WR,Georgia Tech,ACC,Georgia
 DeAndre Thompkins,WR,Penn State,Big Ten,Pennsylvania
-Carlos Thompson,WR,Independance CC,,
+Carlos Thompson,WR,Independance CC,NJCAA,Kansas
 Chris Thompson,WR,Florida,SEC,Florida
 Jalen Tolliver,WR,Arkansas-Monticello,D2,Arkansas
-Jonah Trinnamen,WR,Brigham Young,,
+Jonah Trinnamen,WR,BYU,FBS - Independent,Utah
 Aaren Vaughns,WR,Utah State,FBS - Mountain West,Utah
 Joe Walker,WR,Delaware,FCS,Delaware
 L'Damian Washington,WR,Missouri,SEC,Missouri
@@ -304,17 +304,17 @@ Kermit Whitfield,WR,Florida State,ACC,Florida
 Carl Whitley,WR,Abilene Christian,FCS,Texas
 Daniel Williams,WR,Jackson State,FCS,Mississippi
 Kasen Williams,WR,Washington,Pac 12,Washington
-Taj Williams,WR,Texas Christian,,
+Taj Williams,WR,TCU,Big 12,Texas
 Terrance Williams,WR,Baylor,Big 12,Texas
 Malik Wilson,WR,North Carolina A&T,FCS,North Carolina
 Tim Wilson,WR,East Stroudsburg,D2,Pennsylvania
 Kendall Wright,WR,Baylor,Big 12,Texas
 DeAngelo Yancey,WR,Purdue,Big Ten,Indiana
 Isaac Zico,WR,Purdue,Big Ten,Indiana
-Julian Allen,TE,Southern Mississippi,,
+Julian Allen,TE,Southern Miss,FBS - CUSA,Mississippi
 Jace Amaro,TE,Texas Tech,Big 12,Texas
 Nate Askew,TE,Texas A&M,SEC,Texas
-Tanner Balderree,TE,Brigham Young,,
+Tanner Balderree,TE,BYU,FBS - Independent,Utah
 Brandon Barnes,TE,Alabama State,FCS,Alabama
 Dillon Beard,TE,Southern,FCS,Louisiana
 EJ Bibbs,TE,Iowa State,Big 12,Iowa
@@ -322,24 +322,24 @@ Romello Brooker,TE,Houston,FBS - AAC,Texas
 Kyle Carter,TE,Penn State,Big Ten,Pennsylvania
 Orson Charles,TE,Georgia,SEC,Georgia
 Gerald Christian,TE,Louisville,ACC,Kentucky
-Darion Clark,TE,Southern California,,
+Darion Clark,TE,USC,Pac 12,California
 Cam Clear,TE,Texas A&M,SEC,Texas
 Zach Conque,TE,Stephen F. Austin,FCS,Texas
 Micky Crum III,TE,Louisville,ACC,Kentucky
 Connor Davis,TE,Stony Brook,FCS,New York
-Fred Davis,TE,Southern California,,
+Fred Davis,TE,USC,Pac 12,California
 Anthony Denham,TE,Utah,Pac 12,Utah
 Elkanah Dillon,TE,South Florida,FBS - AAC,Florida
 Jonathan Dorsey,TE,Alabama A&M,FCS,Alabama
-Aaron Evans,TE,Central Florida,,
+Aaron Evans,TE,UCF,FBS - AAC,Florida
 DeAndre Goolsby,TE,Florida,SEC,Florida
 Connor Hamlett,TE,Oregon State,Pac 12,Oregon
 Clay Harbor,TE,Missouri State,FCS,Missouri
 Jackson Harris,TE,Georgia,SEC,Georgia
 Derrick Hayward,TE,Maryland,Big Ten,Maryland
 Garrett Hudson,TE,Richmond,FCS,Virginia
-Cole Hunt,TE,Texas Christian,,
-Colin Jeter,TE,Louisiana State,,
+Cole Hunt,TE,TCU,Big 12,Texas
+Colin Jeter,TE,LSU,SEC,Louisiana
 Ben Johnson,TE,Kansas,Big 12,Kansas
 Jalyn Judkins,TE,Angelo State,D2,Texas
 Carter Kirk,TE,Southwest Minnesota State,D2,Minnesota
@@ -348,9 +348,9 @@ C'yontai Lewis,TE,Florida,SEC,Florida
 Jake McGee,TE,Florida,SEC,Florida
 Pharoah McKever,TE,Florida International,FBS - CUSA,Florida
 Cordon Moog,TE,Baylor,Big 12,Texas
-Scott Orndoff,TE,Pittsburgh,,
-Donald Parham,TE,Stenson,,
-Tyler Petite,TE,Southern California,,
+Scott Orndoff,TE,Pitt,ACC,Pennsylvania
+Donald Parham,TE,Stetson,FCS,Florida
+Tyler Petite,TE,USC,Pac 12,California
 Jake Powell,TE,Monmouth,FCS,New Jersey
 Jake Powell,TE,Monmouth,D3,Illinois
 Sean Price,TE,South Florida,FBS - AAC,Florida
@@ -366,16 +366,16 @@ Weslye Saunders,TE,South Carolina,SEC,South Carolina
 Wes Saxton,TE,South Alabama,FBS - Sun Belt,Alabama
 Cameron Serigne,TE,Wake Forest,ACC,North Carolina
 Ryan Smith,TE,Miami (OH),FBS - MAC,Ohio
-Johnny Stanton,TE,Nevada-Las Vegas,,
+Johnny Stanton,TE,UNLV,FBS - Mountain West,Nevada
 Moral Stephens Jr,TE,Florida,SEC,Florida
 Jake Sutherland,TE,Morehead State,FCS,Kentucky
-Kent Taylor,TE,Texas-El Paso,,
-Brett Thompson,TE,Tennessee-Martin,,
+Kent Taylor,TE,UTEP,FBS - CUSA,Texas
+Brett Thompson,TE,UT Martin,FCS,Tennessee
 Colin Thompson,TE,Temple,FBS - AAC,Pennsylvania
 Keith Towbridge,TE,Louisville,ACC,Kentucky
-Nick Truesdell,TE,Grand Rapids JC,,
-Dimitrios Tsesmetzis,TE,Western Connecticut State,,
-Eric Wallace,TE,Seattle,,
+Nick Truesdell,TE,Grand Rapids,NJCAA,Michigan
+Dimitrios Tsesmetzis,TE,Western Connecticut,D3,Connecticut
+Eric Wallace,TE,Seattle,WAC,Washington
 Matt Weiser,TE,Buffalo,FBS - MAC,New York
 Nic Weishar,TE,Notre Dame,FBS - Independent,Indiana
 Cole Wick,TE,Incarnate Word,FCS,Texas
@@ -386,10 +386,10 @@ Isaiah Battle,OT,Clemson,ACC,South Carolina
 Willie Beavers,OT,Western Michigan,FBS - MAC,Michigan
 Adrian Bellard,OT,Texas State,FBS - Sun Belt,Texas
 Jonte Berry,OT,Northwest Missouri State,D2,Missouri
-Adam Bisnowaty,OT,Pittsburgh,,
+Adam Bisnowaty,OT,Pitt,ACC,Pennsylvania
 Lanard Bonner,OT,Arkansas State,FBS - Sun Belt,Arkansas
 Cole Boozer,OT,Temple,FBS - AAC,Pennsylvania
-Kevin Bowen,OT,East Central (OK),,
+Kevin Bowen,OT,East Central,D2,Oklahoma
 Michael Bowie,OT,Oklahoma State,Big 12,Oklahoma
 Darrell Brown,OT,Louisiana Tech,FBS - CUSA,Louisiana
 Sean Brown,OT,Mississippi Valley State,FCS,Mississippi
@@ -404,7 +404,7 @@ Michael Dunn,OT,Maryland,Big Ten,Maryland
 Quinterrius Eatmon,OT,South Florida,FBS - AAC,Florida
 Cornelius Edison,OT,Portland State,FCS,Oregon
 Justin Evans,OT,South Carolina State,FCS,South Carolina
-Tayo Fabuluje,OT,Texas Christian,,
+Tayo Fabuluje,OT,TCU,Big 12,Texas
 Brian Fineanganofo,OT,Idaho State,FCS,Idaho
 Cole Gardner,OT,Eastern Michigan,FBS - MAC,Michigan
 Avery Gennesy,OT,Texas A&M,SEC,Texas
@@ -435,14 +435,14 @@ Lene Maiava,OT,Arizona,Pac 12,Arizona
 Kamalie Matthews,OT,Murray State,FCS,Kentucky
 Eric Mayes,OT,South Florida,FBS - AAC,Florida
 Riley Mayfield,OT,North Texas,FBS - CUSA,Texas
-Matt McCants,OT,Alabama-Birmingham,,
+Matt McCants,OT,UAB,FBS - CUSA,Alabama
 Craig McCorkle,OT,California (PA),D2,Pennsylvania
 Ty McCulley,OT,Colorado State-Pueblo,D2,Colorado
 Andrew McDonald,OT,Indiana,Big Ten,Indiana
 Jamar McGloster,OT,Syracuse,ACC,New York
 Aaron Monteiro,OT,Boston College,ACC,Massachusetts
 Anthony Morris,OT,Tennessee State,FCS,Tennessee
-Christian Morris,OT,Mississippi,,
+Christian Morris,OT,Ole Miss,SEC,Mississippi
 Trae Moxley,OT,Colorado State,FBS - Mountain West,Colorado
 Kyle Murphy,OT,Stanford,Pac 12,California
 Pace Murphy,OT,Northwestern State,FCS,Louisiana
@@ -461,41 +461,41 @@ Jordan Rose,OT,Idaho,FBS - Sun Belt,Idaho
 TJ Roundtree,OT,Colorado State,FBS - Mountain West,Colorado
 Jimmie Sims,OT,Western Kentucky,FBS - CUSA,Kentucky
 Nate Theaker,OT,Wayne State,D2,Michigan
-Josiah Tonu,OT,Oregon Tech,,
+Josiah Tonu,OT,Oregon Tech,NAIA,Oregon
 Casey Tucker,OT,Arizona State,Pac 12,Arizona
 Logan Tuley-Tillman,OT,Michigan,Big Ten,Michigan
 Dwayne Wallace,OT,Kansas,Big 12,Kansas
-Toby Weathersby,OT,Louisiana State,,
-De'Ondre Wesley,OT,Brigham Young,,
+Toby Weathersby,OT,LSU,SEC,Louisiana
+De'Ondre Wesley,OT,BYU,FBS - Independent,Utah
 Rathvon Williams,OT,Louisiana College,D3,Louisiana
 Chasz Wright,OT,Penn State,Big Ten,Pennsylvania
-Tony Adams,OG,North Carolina State,,
+Tony Adams,OG,NC State,ACC,North Carolina
 Jordan Agasiva,OG,Utah,Pac 12,Utah
 Dejon Allen,OG,Hawaii,FBS - Mountain West,Hawaii
-Josh Allen,OG,Louisiana Monroe,,
+Josh Allen,OG,Louisiana-Monroe,FBS - Sun Belt,Louisiana
 Kareem Are,OG,Florida State,ACC,Florida
 Kirk Barron,OG,Purdue,Big Ten,Indiana
 Abdul Beecham,OG,Kansas State,Big 12,Kansas
 Mitchell Bell,OG,Louisiana Tech,FBS - CUSA,Louisiana
 Wilson Bell,OG,Florida State,ACC,Florida
-Daronte Bouldin,OG,Mississippi,,
+Daronte Bouldin,OG,Ole Miss,SEC,Mississippi
 Venzell Boulware,OG,Tennessee,SEC,Tennessee
 Toree Boyd,OG,Howard,FCS,Washington DC
 Grant Branch,OG,Eastern Illinois,FCS,Illinois
-Chris Brown,OG,Southern California,,
+Chris Brown,OG,USC,Pac 12,California
 Leon Brown,OG,Alabama,SEC,Alabama
 Juwann Bushell-Beatty,OG,Michigan,Big Ten,Michigan
 William Campbell,OG,Michigan,Big Ten,Michigan
 Jake Campos,OG,Iowa State,Big 12,Iowa
 Shakir Carr,OG,Central Michigan,FBS - MAC,Michigan
 Kyle Chung,OG,Virginia Tech,ACC,Virginia
-Rishard Cook,OG,Alabama-Birmingham,,
+Rishard Cook,OG,UAB,FBS - CUSA,Alabama
 Anthony Coyle,OG,Fordham,FCS,New York
 Christian Cronk,OG,Fresno State,FBS - Mountain West,California
 Ryan Cummings,OG,Wyoming,FBS - Mountain West,Wyoming
 Mason Denley,OG,Houston,FBS - AAC,Texas
 Jessamen Dunker,OG,Tennessee State,FCS,Tennessee
-Andrew Erbes,OG,Nevada-Las Vegas,,
+Andrew Erbes,OG,UNLV,FBS - Mountain West,Nevada
 Isame Faciane,OG,Florida International,FBS - CUSA,Florida
 Brandon Fanaika,OG,Stanford,Pac 12,California
 Chase Farris,OG,Ohio State,Big Ten,Ohio
@@ -505,11 +505,11 @@ Zack Golditch,OG,Colorado State,FBS - Mountain West,Colorado
 Jeremi Hall,OG,South Florida,FBS - AAC,Florida
 Isaiah Hardy,OG,West Virginia,Big 12,West Virginia
 Sean Hickey,OG,Syracuse,ACC,New York
-Trevin Huff,OG,Bethune Cookman,,
+Trevin Huff,OG,Bethune-Cookman,FCS,Florida
 Tre Jackson,OG,Florida State,ACC,Florida
 Jocquell Johnson,OG,Mississippi State,SEC,Mississippi
 Jahair Jones,OG,Miami (FL),ACC,Florida
-Tuni Kanuch,OG,Brigham Young,,
+Tuni Kanuch,OG,BYU,FBS - Independent,Utah
 John Keenoy,OG,Western Michigan,FBS - MAC,Michigan
 Zac Kerin,OG,Toledo,FBS - MAC,Ohio
 Korren Kirven,OG,Alabama,SEC,Alabama
@@ -518,7 +518,7 @@ Fred Lauina,OG,Oregon State,Pac 12,Oregon
 Jovann Letuli,OG,Akron,FBS - MAC,Ohio
 Marquis Lucas,OG,West Virginia,Big 12,West Virginia
 Lamar Mady,OG,Youngstown State,FCS,Ohio
-Damien Mama,OG,Southern California,,
+Damien Mama,OG,USC,Pac 12,California
 Bob Marco,OG,Washburn,D2,Kansas
 Lawrence Martin,OG,South Florida,FBS - AAC,Florida
 Chandler Miller,OG,Tulsa,FBS - AAC,Oklahoma
@@ -526,17 +526,17 @@ Michael Miller,OG,Washburn,D2,Kansas
 Blake Muir,OG,Baylor,Big 12,Texas
 Robert Myers,OG,Tennessee State,FCS,Tennessee
 Oni Omoile,OG,Iowa State,Big 12,Iowa
-Jac'que Polite,OG,Winston Salem,,
-Terron Prescod,OG,North Carolina State,,
-Norman Price,OG,Southern Mississippi,,
+Jac'que Polite,OG,Winston-Salem State,D2,North Carolina
+Terron Prescod,OG,NC State,ACC,North Carolina
+Norman Price,OG,Southern Miss,FBS - CUSA,Mississippi
 Cyril Richardson,OG,Baylor,Big 12,Texas
-Maurquice Shakir,OG,Middle Tennessee State,,
+Maurquice Shakir,OG,Middle Tennessee,FBS - CUSA,Tennessee
 Conor Sheehy,OG,Wisconsin,Big Ten,Wisconsin
 Ian Silberman,OG,Boston College,ACC,Massachusetts
 Nico Siragusa,OG,San Diego State,FBS - Mountain West,California
 Micah St. Andrew,OG,Fresno State,FBS - Mountain West,California
 Bunchy Stallings,OG,Kentucky,SEC,Kentucky
-Maea Teuhema,OG,Southeast Louisiana,,
+Maea Teuhema,OG,Southeastern Louisiana,FCS,Louisiana
 Dallas Thomas,OG,Tennessee,SEC,Tennessee
 Andrew Tiller,OG,Syracuse,ACC,New York
 Marquez Tucker,OG,Southern Utah,FCS,Utah
@@ -550,10 +550,10 @@ Avery Young,OG,Auburn,SEC,Alabama
 Ty Allen,OC,Tennessee State,FCS,Tennessee
 Ryan Anderson,OC,Wake Forest,ACC,North Carolina
 Alex Balducci,OC,Oregon,Pac 12,Oregon
-Garrett Brumfield,OC,Louisiana State,,
+Garrett Brumfield,OC,LSU,SEC,Louisiana
 Freddie Burden,OC,Georgia Tech,ACC,Georgia
 Matthew Cohen,OC,Lehigh,FCS,Pennsylvania
-DJ Coker,OC,Rhodes College,,
+DJ Coker,OC,Rhodes,D3,Tennessee
 Parker Collins,OC,Appalachian State,FBS - Sun Belt,North Carolina
 Dillon Day,OC,Mississippi State,SEC,Mississippi
 Dillon DeBoer,OC,Florida Atlantic,FBS - CUSA,Florida
@@ -563,9 +563,9 @@ Austin Golson,OC,Auburn,SEC,Alabama
 Steven Gurrola,OC,Arizona,Pac 12,Arizona
 Vitas Hrynkiewicz,OC,Youngstown State,FCS,Ohio
 Jacob Judd,OC,Western Illinois,FCS,Illinois
-Tejan Koroma,OC,Brigham Young,,
+Tejan Koroma,OC,BYU,FBS - Independent,Utah
 Patrick Lewis,OC,Texas A&M,SEC,Texas
-Jordan McCray,OC,Central Florida,,
+Jordan McCray,OC,UCF,FBS - AAC,Florida
 Michael Montero,OC,Florida International,FBS - CUSA,Florida
 James Murray,OC,Holy Cross,FCS,Massachusetts
 James O'Hagan,OC,Buffalo,FBS - MAC,New York
@@ -590,13 +590,13 @@ Kyle Cerge-Henderson,DT,Georgia Tech,ACC,Georgia
 Austin Cieslak,DT,North Dakota State,FCS,North Dakota
 Khairi Clark,DT,Florida,SEC,Florida
 Winston Craig,DT,Richmond,FCS,Virginia
-Malik Dorton,DT,Southern California,,
+Malik Dorton,DT,USC,Pac 12,California
 Bryce Douglas,DT,Northern Iowa,FCS,Iowa
 BJ Dubose,DT,Louisville,ACC,Kentucky
-Josh Fatu,DT,Southern California,,
+Josh Fatu,DT,USC,Pac 12,California
 Will Geary,DT,Kansas State,Big 12,Kansas
 Youhanna Ghaifan,DT,Wyoming,FBS - Mountain West,Wyoming
-Tony Guerad,DT,Central Florida,,
+Tony Guerad,DT,UCF,FBS - AAC,Florida
 Darius Hamilton,DT,Rutgers,Big Ten,New Jersey
 Marcus Hardison,DT,Arizona State,Pac 12,Arizona
 Tank Harris,DT,North Dakota,FCS,North Dakota
@@ -604,18 +604,18 @@ Jay Hayes,DT,Notre Dame,FBS - Independent,Indiana
 Roderick Henderson,DT,Alabama State,FCS,Alabama
 Ra'Zahn Howard,DT,Purdue,Big Ten,Indiana
 Reggie Howard,DT,Toledo,FBS - MAC,Ohio
-Ben Huss,DT,Duquense,,
+Ben Huss,DT,Duquesne,FCS,Pennsylvania
 Nick James,DT,Mississippi State,SEC,Mississippi
 Courtel Jenkins,DT,Miami (FL),ACC,Florida
 Alexis Johnson,DT,Tennessee,SEC,Tennessee
-Anthony Johnson,DT,Louisiana State,,
+Anthony Johnson,DT,LSU,SEC,Louisiana
 Toby Johnson,DT,Georgia,SEC,Georgia
 Davonte Lambert,DT,Auburn,SEC,Alabama
 Duvonta Lampkin,DT,Oklahoma,Big 12,Oklahoma
-Jeremy Liggins,DT,Mississippi,,
+Jeremy Liggins,DT,Ole Miss,SEC,Mississippi
 Claudell Louis,DT,Fresno State,FBS - Mountain West,California
 Izaah Lunsford,DT,Bowling Green,FBS - MAC,Ohio
-Caushaud Lyons,DT,Tusculum,,
+Caushaud Lyons,DT,Tusculum College,D2,Tennessee
 Joey Mbu,DT,Houston,FBS - AAC,Texas
 Julian McKnight,DT,North Carolina A&T,FCS,North Carolina
 Adrian Middleton,DT,Kentucky,SEC,Kentucky
@@ -625,7 +625,7 @@ Leon Orr,DT,Florida,SEC,Florida
 Scott Pagano,DT,Clemson,ACC,South Carolina
 Walter Palmore,DT,Missouri,SEC,Missouri
 Jake Payne,DT,Shenandoah,D3,Virginia
-Teko Powell,DT,Alabama-Birmingham,,
+Teko Powell,DT,UAB,FBS - CUSA,Alabama
 Elijah Qualls,DT,Washington,Pac 12,Washington
 Micanor Regis,DT,Miami (FL),ACC,Florida
 Waylon Roberson,DT,Arkansas State,FBS - Sun Belt,Arkansas
@@ -644,13 +644,13 @@ Kellen Soulek,DT,South Dakota State,FCS,South Dakota
 Tracy Sprinkle,DT,Ohio State,Big Ten,Ohio
 Andrew Stelter,DT,Minnesota,Big Ten,Minnesota
 Will Sutton,DT,Arizona State,Pac 12,Arizona
-Handsome Tanielu,DT,Brigham Young,,
+Handsome Tanielu,DT,BYU,FBS - Independent,Utah
 Pasoni Tasini,DT,Utah,Pac 12,Utah
 Larry Tharpe,DT,Arizona,Pac 12,Arizona
 Jordan Thompson,DT,Northwestern,Big Ten,Illinois
 Trenton Thompson,DT,Georgia,SEC,Georgia
 Tyrell Thompson,DT,Tarleton State,D2,Texas
-Khyri Thornton,DT,Southern Mississippi,,
+Khyri Thornton,DT,Southern Miss,FBS - CUSA,Mississippi
 Nick Tompkins,DT,Dartmouth,FCS,New Hampshire
 Charles Tuaau,DT,Texas A&M-Commerce,D2,Texas
 Taniela Tupou,DT,Washington,Pac 12,Washington
@@ -658,7 +658,7 @@ Kalani Vakameilalo,DT,Oregon State,Pac 12,Oregon
 Jordan Wade,DT,Oklahoma,Big 12,Oklahoma
 Cavon Walker,DT,Maryland,Big Ten,Maryland
 Ricky Walker,DT,Virginia Tech,ACC,Virginia
-Channing Ward,DT,Mississippi,,
+Channing Ward,DT,Ole Miss,SEC,Mississippi
 Nikita Whitlock,DT,Wake Forest,ACC,North Carolina
 Andrew Williams,DT,Auburn,SEC,Alabama
 Roderick Young,DT,North Texas,FBS - CUSA,Texas
@@ -667,7 +667,7 @@ Justin Alexandre,DE,Incarnate Word,FCS,Texas
 Kiante' Anderson,DE,East Carolina,FBS - AAC,North Carolina
 Andrew Ankrah,DE,James Madison,FCS,Virginia
 Tavaris Barnes,DE,Clemson,ACC,South Carolina
-Justice Bishop,DE,Union (NY),,
+Justice Bishop,DE,Union,D3,New York
 Jordan Bradford,DE,Louisiana Tech,FBS - CUSA,Louisiana
 Quinton Bradley,DE,Idaho,FBS - Sun Belt,Idaho
 Johnathan Calvin,DE,Mississippi State,SEC,Mississippi
@@ -680,11 +680,11 @@ Brian Dolce,DE,Albany,FCS,New York
 Kony Ealy,DE,Missouri,SEC,Missouri
 Danny Ezechukwu,DE,Purdue,Big Ten,Indiana
 Connor Flagel,DE,Central Missouri,D2,Missouri
-James Folston,DE,Pittsburgh,,
+James Folston,DE,Pitt,ACC,Pennsylvania
 Marcell Frazier,DE,Missouri,SEC,Missouri
 KeShun Freeman,DE,Georgia Tech,ACC,Georgia
 Christian French,DE,Oregon,Pac 12,Oregon
-Jamell Garcia-Williams,DE,Alabama-Birmingham,,
+Jamell Garcia-Williams,DE,UAB,FBS - CUSA,Alabama
 Nick Giorgio,DE,Springfield,D3,Massachusetts
 Obum Gwacham,DE,Oregon State,Pac 12,Oregon
 Charles Harris,DE,Buffalo,FBS - MAC,New York
@@ -699,26 +699,26 @@ Alex Jenkins,DE,International,,
 Anthony Johnson,DE,Florida International,FBS - CUSA,Florida
 George Johnson,DE,Rutgers,Big Ten,New Jersey
 Markus Jones,DE,Angelo State,D2,Texas
-Shaq Jones,DE,Alabama-Birmingham,,
+Shaq Jones,DE,UAB,FBS - CUSA,Alabama
 Ulric Jones,DE,South Carolina,SEC,South Carolina
-Corbin Kaufusi,DE,Brigham Young,,
+Corbin Kaufusi,DE,BYU,FBS - Independent,Utah
 Brian Khoury,DE,Carnegie Mellon,D3,Pennsylvania
 Hau'oli Kikaha,DE,Washington,Pac 12,Washington
 Meffy Koloamatangi,DE,Hawaii,FBS - Mountain West,Hawaii
 Austin Larkin,DE,Purdue,Big Ten,Indiana
 Tramond Lofton,DE,Delta State,D2,Mississippi
-Stansly Maponga,DE,Texas Christian,,
+Stansly Maponga,DE,TCU,Big 12,Texas
 Jamal Marcus,DE,Akron,FBS - MAC,Ohio
 Praise Martin-Oguike,DE,Temple,FBS - AAC,Pennsylvania
-Johnny Maxey,DE,Mars Hill,,
+Johnny Maxey,DE,Mars Hill College,D2,North Carolina
 Willie Mays,DE,Tiffin,D2,Ohio
 Durrant Miles,DE,Boise State,FBS - Mountain West,Idaho
-Sam Montgomery,DE,Louisiana State,,
+Sam Montgomery,DE,LSU,SEC,Louisiana
 Deiontrez Mount,DE,Louisville,ACC,Kentucky
 Ryan Mueller,DE,Kansas State,Big 12,Kansas
 Myles Nash,DE,Rutgers,Big Ten,New Jersey
 Dame Ndiaye,DE,Portland State,FCS,Oregon
-Jason Neill,DE,Texas-San Antonio,,
+Jason Neill,DE,UTSA,FBS - CUSA,Texas
 Shawn Oakman,DE,Baylor,Big 12,Texas
 Victor Ochi,DE,Stony Brook,FCS,New York
 Sydney Omameh,DE,Grand Valley State,D2,Michigan
@@ -727,14 +727,14 @@ Tenny Palepoi,DE,Utah,Pac 12,Utah
 Gimel President,DE,Illinois,Big Ten,Illinois
 Quincy Redmon,DE,Fairmont State,D2,West Virginia
 Cedric Reed,DE,Texas,Big 12,Texas
-Taylor Reed,DE,Southern Methodist,,
+Taylor Reed,DE,SMU,FBS - AAC,Texas
 Michael Reynolds,DE,Kansas,Big 12,Kansas
 Bobby Richardson,DE,Indiana,Big Ten,Indiana
-Gerald Rivers,DE,Mississippi,,
+Gerald Rivers,DE,Ole Miss,SEC,Mississippi
 Dante Sawyer,DE,South Carolina,SEC,South Carolina
 John Sheehy,DE,West Texas A&M,D2,Texas
 Jacquies Smith,DE,Missouri,SEC,Missouri
-Marlon Smith,DE,Texas-San Antonio,,
+Marlon Smith,DE,UTSA,FBS - CUSA,Texas
 Justin Stewart,DE,Central Oklahoma,D2,Oklahoma
 Devin Taylor,DE,South Carolina,SEC,South Carolina
 Aaron Tiller,DE,Southern,FCS,Louisiana
@@ -742,9 +742,9 @@ Immanuel Turner,DE,Louisiana Tech,FBS - CUSA,Louisiana
 Prince Unaegbu,DE,Pace,D2,New York
 Corey Vereen,DE,Tennessee,SEC,Tennessee
 Kevin Wilkins,DE,Rutgers,Big Ten,New Jersey
-Rykeem Yates,DE,Nevada-Reno,,
+Rykeem Yates,DE,Nevada,FBS - Mountain West,Nevada
 Patrick Afriyie,LB,Colgate,FCS,New York
-Donnie Alexander,LB,Louisiana State,,
+Donnie Alexander,LB,LSU,SEC,Louisiana
 Bryson Allen-Williams,LB,South Carolina,SEC,South Carolina
 Josh Banderas,LB,Nebraska,Big Ten,Nebraska
 Khalil Bass,LB,Portland State,FCS,Oregon
@@ -760,7 +760,7 @@ Arthur Brown,LB,Kansas State,Big 12,Kansas
 Asantay Brown,LB,Western Michigan,FBS - MAC,Michigan
 Beniquez Brown,LB,Mississippi State,SEC,Mississippi
 Terrance Bullitt,LB,Texas Tech,Big 12,Texas
-Kaelin Burnett,LB,Nevada-Reno,,
+Kaelin Burnett,LB,Nevada,FBS - Mountain West,Nevada
 Jonathan Celestin,LB,Minnesota,Big Ten,Minnesota
 Reshard Cliett,LB,South Florida,FBS - AAC,Florida
 Te'Von Coney,LB,Notre Dame,FBS - Independent,Indiana
@@ -778,18 +778,18 @@ Jabril Frazier,LB,Boise State,FBS - Mountain West,Idaho
 Kris Frost,LB,Auburn,SEC,Alabama
 Alex Funches,LB,California,Pac 12,California
 Terence Garvin,LB,West Virginia,Big 12,West Virginia
-DeMarquis Gates,LB,Mississippi,,
+DeMarquis Gates,LB,Ole Miss,SEC,Mississippi
 Quentin Gause,LB,Rutgers,Big Ten,New Jersey
 Frank Ginda,LB,San Jose State,FBS - Mountain West,California
 Khaseem Greene,LB,Rutgers,Big Ten,New Jersey
-Nicholas Grigsby,LB,Pittsburgh,,
+Nicholas Grigsby,LB,Pitt,ACC,Pennsylvania
 Jesse Hayes,LB,Wisconsin,Big Ten,Wisconsin
 Ben Heeney,LB,Kansas,Big 12,Kansas
 D'Juan Hines,LB,Houston,FBS - AAC,Texas
 Ro'Derrick Hoskins,LB,Florida State,ACC,Florida
 Andrew Jackson,LB,Western Kentucky,FBS - CUSA,Kentucky
 Jalen Johnson,LB,Georgia Tech,ACC,Georgia
-Jawuan Johnson,LB,Texas Christian,,
+Jawuan Johnson,LB,TCU,Big 12,Texas
 Kerron Johnson,LB,Coastal Carolina,FCS,South Carolina
 Steven Johnson,LB,Kansas,Big 12,Kansas
 Jordan Jones,LB,Kentucky,SEC,Kentucky
@@ -803,7 +803,7 @@ Brandon Lee,LB,Missouri,SEC,Missouri
 Darnell Leslie,LB,Monmouth,FCS,New Jersey
 Darnell Leslie,LB,Monmouth,D3,Illinois
 Drew Lewis,LB,Colorado,Pac 12,Colorado
-Totauhelotu Lotulelei,LB,Nevada-Las Vegas,,
+Totauhelotu Lotulelei,LB,UNLV,FBS - Mountain West,Nevada
 Kavika Luafatasaga,LB,Utah,Pac 12,Utah
 Jeff Luc,LB,Cincinnati,FBS - AAC,Ohio
 Greer Martini,LB,Notre Dame,FBS - Independent,Indiana
@@ -820,13 +820,13 @@ Gionni Paul,LB,Utah,Pac 12,Utah
 Brandon Payer,LB,Colorado State-Pueblo,D2,Colorado
 Peyton Pelluer,LB,Washington State,Pac 12,Washington
 Eric Pinkins,LB,San Diego State,FBS - Mountain West,California
-Terrance Plummer,LB,Central Florida,,
+Terrance Plummer,LB,UCF,FBS - AAC,Florida
 Kyle Queiro,LB,Northwestern,Big Ten,Illinois
 Johnny Ragin,LB,Oregon,Pac 12,Oregon
 Jon Reschke,LB,Michigan State,Big Ten,Michigan
-Edmond Robinson,LB,Newberry,,
+Edmond Robinson,LB,Newberry College,D2,South Carolina
 Javon Rolland-Jones,LB,Arkansas State,FBS - Sun Belt,Arkansas
-Anthony Sarao,LB,Southern California,,
+Anthony Sarao,LB,USC,Pac 12,California
 Tegray Scales,LB,Indiana,Big Ten,Indiana
 Ty Schwab,LB,Boston College,ACC,Massachusetts
 Michael Shaw,LB,Georgia Southern,FBS - Sun Belt,Georgia
@@ -855,19 +855,19 @@ Scooby Wright,LB,Arizona,Pac 12,Arizona
 Juwon Young,LB,Marshall,FBS - CUSA,West Virginia
 Tenny Adewusi,CB,Delaware,FCS,Delaware
 Jude Adjei-Barimah,CB,Bowling Green,FBS - MAC,Ohio
-Terrence Alexander,CB,Louisiana State,,
+Terrence Alexander,CB,LSU,SEC,Louisiana
 Elijah Battle,CB,West Virginia,Big 12,West Virginia
 Malik Boynton,CB,Austin Peay,FCS,Tennessee
 Donatello Brown,CB,Valdosta State,D2,Georgia
 Ray Buchanan Jr,CB,Northern Iowa,FCS,Iowa
-Trey Caldwell,CB,Louisiana Monroe,,
+Trey Caldwell,CB,Louisiana-Monroe,FBS - Sun Belt,Louisiana
 Elijah Campbell,CB,Northern Iowa,FCS,Iowa
 Bryce Canady,CB,Florida International,FBS - CUSA,Florida
-Rashard Causey,CB,Central Florida,,
+Rashard Causey,CB,UCF,FBS - AAC,Florida
 Bryce Cheek,CB,Akron,FBS - MAC,Ohio
-Reggie Cole,CB,Mary Hardin Baylor,,
+Reggie Cole,CB,Mary Hardin-Baylor,D3,Texas
 Qua Cox,CB,Jackson State,FCS,Mississippi
-Brandin Dandridge,CB,Missouri Western,,
+Brandin Dandridge,CB,Missouri Western State,D2,Missouri
 Chris Davis,CB,Auburn,SEC,Alabama
 Davante Davis,CB,Texas,Big 12,Texas
 Jhavonte Dean,CB,Miami (FL),ACC,Florida
@@ -884,35 +884,35 @@ Doran Grant,CB,Ohio State,Big Ten,Ohio
 Ladarius Gunter,CB,Miami (FL),ACC,Florida
 Heath Harding,CB,Miami (OH),FBS - MAC,Ohio
 Josh Hawkins,CB,East Carolina,FBS - AAC,North Carolina
-Will Hines,CB,Southeast Louisiana,,
+Will Hines,CB,Southeastern Louisiana,FCS,Louisiana
 Tyree Holder,CB,Ball State,FBS - MAC,Indiana
 Tyrin Holloway,CB,Western Illinois,FCS,Illinois
 Demontre Hurst,CB,Oklahoma,Big 12,Oklahoma
 Charles James,CB,Charleston Southern,FCS,South Carolina
 Joshua Jenkins,CB,Army,FBS - Independent,Kansas
-Jeremiah Johnson,CB,Concord (WV),,
+Jeremiah Johnson,CB,Concord,D2,West Virginia
 Anthoula Kelly,CB,Fresno State,FBS - Mountain West,California
 Brendan Langley,CB,Lamar,FCS,Texas
 Desmond Lawrence,CB,North Carolina,ACC,North Carolina
-Travis Lee,CB,Miles,,
+Travis Lee,CB,Miles College,D2,Alabama
 Bradford Lemmons,CB,Furman,FCS,South Carolina
 Shelton Lewis,CB,Florida Atlantic,FBS - CUSA,Florida
-Jay Liggins,CB,Dickinson State,,
+Jay Liggins,CB,Dickinson,D3,Pennsylvania
 Christopher Love,CB,East Carolina,FBS - AAC,North Carolina
 Justin Martin,CB,Tennessee,SEC,Tennessee
 Tre Mathis,CB,Toledo,FBS - MAC,Ohio
 Jeremiah McKinnon,CB,Florida International,FBS - CUSA,Florida
-Harlan Miller,CB,Southeast Louisiana,,
+Harlan Miller,CB,Southeastern Louisiana,FCS,Louisiana
 Dakari Monroe,CB,San Jose State,FBS - Mountain West,California
 C.J Moore,CB,North Carolina Central,FCS,North Carolina
-Sterling Moore,CB,Southern Methodist,,
+Sterling Moore,CB,SMU,FBS - AAC,Texas
 KJ Morton,CB,Baylor,Big 12,Texas
-Darius Mouton,CB,Nevada-Las Vegas,,
+Darius Mouton,CB,UNLV,FBS - Mountain West,Nevada
 Najee Murray,CB,Kent State,FBS - MAC,Ohio
 Jalen Myrick,CB,Minnesota,Big Ten,Minnesota
 DeJuan Neal,CB,Shepherd,D2,West Virginia
 J.R. Nelson,CB,Montana,FCS,Montana
-Picasso Nelson,CB,Southern Mississippi,,
+Picasso Nelson,CB,Southern Miss,FBS - CUSA,Mississippi
 Robert Nelson,CB,Arizona State,Pac 12,Arizona
 Deatrick Nichols,CB,South Florida,FBS - AAC,Florida
 Deji Olatoye,CB,North Carolina A&T,FCS,North Carolina
@@ -920,8 +920,8 @@ Brian Peavy,CB,Iowa State,Big 12,Iowa
 Aarion Penton,CB,Missouri,SEC,Missouri
 Jamal Peters,CB,Mississippi State,SEC,Mississippi
 Dashaun Phillips,CB,Tarleton State,D2,Texas
-Jermaine Ponder,CB,St. Francis,,
-Jackson Porter,CB,Massachusettes,,
+Jermaine Ponder,CB,Saint Francis,FCS,Pennsylvania
+Jackson Porter,CB,Massachusetts,FBS - MAC,Massachusetts
 Raysean Pringle,CB,Southern Utah,FCS,Utah
 Joseph Putu,CB,Florida,SEC,Florida
 Rodney Randle,CB,Lamar,FCS,Texas
@@ -940,18 +940,18 @@ David Simmons,CB,North Park,D3,Illinois
 Albert Smalls,CB,Northern Illinois,FBS - MAC,Illinois
 C.J. Smith,CB,North Dakota State,FCS,North Dakota
 Arrion Springs,CB,Oregon,Pac 12,Oregon
-Mike Stevens,CB,North Carolina State,,
+Mike Stevens,CB,NC State,ACC,North Carolina
 Channing Stribling,CB,Michigan,Big Ten,Michigan
 Jamar Summers,CB,Connecticut,FBS - AAC,Connecticut
 Bradley Sylve,CB,Alabama,SEC,Alabama
 Arnold Tarpley,CB,Vanderbilt,SEC,Tennessee
 Roman Tatum,CB,Southern Illinois,FCS,Illinois
 Robert Taylor,CB,Washington State,Pac 12,Washington
-Ranthony Texada,CB,Texas Christian,,
-Brayleon Thorns,CB,Southeast Louisiana,,
-Jack Tocho,CB,North Carolina State,,
+Ranthony Texada,CB,TCU,Big 12,Texas
+Brayleon Thorns,CB,Southeastern Louisiana,FCS,Louisiana
+Jack Tocho,CB,NC State,ACC,North Carolina
 D'Montre Wade,CB,Murray State,FCS,Kentucky
-Zeke Walker,CB,Southeast Louisiana,,
+Zeke Walker,CB,Southeastern Louisiana,FCS,Louisiana
 Cleveland Wallace,CB,San Jose State,FBS - Mountain West,California
 Malik Warner,CB,Wagner,FCS,New York
 Herb Waters,CB,Miami (FL),ACC,Florida
@@ -965,11 +965,11 @@ Jamarkese Williams,CB,Incarnate Word,FCS,Texas
 Omari Williams,CB,Samford,FCS,Alabama
 Raekwon Williams,CB,Florida Atlantic,FBS - CUSA,Florida
 Steve Williams,CB,California,Pac 12,California
-Khalid Wooten,CB,Nevada-Reno,,
-Jordan Wyatt,CB,Southern Methodist,,
+Khalid Wooten,CB,Nevada,FBS - Mountain West,Nevada
+Jordan Wyatt,CB,SMU,FBS - AAC,Texas
 Devin Abraham,SAF,South Florida,FBS - AAC,Florida
 Kendall Adams,SAF,Kansas State,Big 12,Kansas
-Jarell Addo,SAF,Massachusettes,,
+Jarell Addo,SAF,Massachusetts,FBS - MAC,Massachusetts
 Dravon Askew-Henry,SAF,West Virginia,Big 12,West Virginia
 Parker Baldwin,SAF,San Diego State,FBS - Mountain West,California
 Marcus Ball,SAF,Memphis,FBS - AAC,Tennessee
@@ -988,18 +988,18 @@ Demetrious Cox,SAF,Michigan State,Big Ten,Michigan
 Erick Dargan,SAF,Oregon,Pac 12,Oregon
 Garrett Davis,SAF,Houston,FBS - AAC,Texas
 Lukas Denis,SAF,Boston College,ACC,Massachusetts
-Marsean Diggs,SAF,Alabama-Birmingham,,
+Marsean Diggs,SAF,UAB,FBS - CUSA,Alabama
 K.J. Dillon,SAF,West Virginia,Big 12,West Virginia
 Ahmad Dixon,SAF,Baylor,Big 12,Texas
 Kurtis Drummond,SAF,Michigan State,Big Ten,Michigan
 SaQwan Edwards,SAF,New Mexico,FBS - Mountain West,New Mexico
 Matt Elam,SAF,Florida,SEC,Florida
-Trae Elston,SAF,Mississippi,,
-Kyle Gibson,SAF,Central Florida,,
+Trae Elston,SAF,Ole Miss,SEC,Mississippi
+Kyle Gibson,SAF,UCF,FBS - AAC,Florida
 Randall Goforth,SAF,UCLA,Pac 12,California
 Tyson Graham,SAF,South Dakota,FCS,South Dakota
 John Green,SAF,Connecticut,FBS - AAC,Connecticut
-Micah Hannemann,SAF,Brigham Young,,
+Micah Hannemann,SAF,BYU,FBS - Independent,Utah
 Jalen Harvey,SAF,Arizona State,Pac 12,Arizona
 Zuril Hendrick,SAF,Edinboro,D2,Pennsylvania
 Will Hill,SAF,Florida,SEC,Florida
@@ -1011,11 +1011,11 @@ Hootie Jones,SAF,Alabama,SEC,Alabama
 Ray Jones,SAF,Delaware,FCS,Delaware
 Tyree Kinnel,SAF,Michigan,Big Ten,Michigan
 Christian Love,SAF,Henderson State,D2,Arkansas
-Max Lyons,SAF,Southeast Louisiana,,
+Max Lyons,SAF,Southeastern Louisiana,FCS,Louisiana
 Tyrell Lyons,SAF,Valdosta State,D2,Georgia
 Brandon Maiden,SAF,Jackson State,FCS,Mississippi
 Jordan Martin,SAF,Syracuse,ACC,New York
-Ronald Martin,SAF,Louisiana State,,
+Ronald Martin,SAF,LSU,SEC,Louisiana
 Dexter McCoil,SAF,Toledo,FBS - MAC,Ohio
 Danzel McDaniel,SAF,Kansas State,Big 12,Kansas
 Jojo McIntosh,SAF,Washington,Pac 12,Washington
@@ -1027,14 +1027,14 @@ Ryan Moeller,SAF,Colorado,Pac 12,Colorado
 Joshua Moon,SAF,Georgia Southern,FBS - Sun Belt,Georgia
 Rahim Moore,SAF,UCLA,Pac 12,California
 Jacob Onyechi,SAF,Air Force,FBS - Mountain West,Colorado
-Nick Orr,SAF,Texas Christian,,
+Nick Orr,SAF,TCU,Big 12,Texas
 Fred Payne,SAF,Western Carolina,FCS,North Carolina
-Joe Powell,SAF,Globe Tech,,
-Jordan Powell,SAF,Widner,,
+Joe Powell,SAF,Globe Tech,NJCAA,New York
+Jordan Powell,SAF,Widener,D3,Pennsylvania
 Robert Priester,SAF,Wyoming,FBS - Mountain West,Wyoming
 Santos Ramirez,SAF,Arkansas,SEC,Arkansas
 Delvon Randall,SAF,Temple,FBS - AAC,Pennsylvania
-Mandell Ray,SAF,Morehouse,,
+Mandell Ray,SAF,Morehouse College,D2,Georgia
 Max Redfield,SAF,Indiana (PA),D2,Pennsylvania
 Ed Reynolds,SAF,Stanford,Pac 12,California
 Stephen Roberts,SAF,Auburn,SEC,Alabama
@@ -1051,7 +1051,7 @@ Aaron Taylor,SAF,Ball State,FBS - MAC,Indiana
 Gregory Taylor,SAF,Wesley,D3,Delaware
 Robenson Therezie,SAF,Auburn,SEC,Alabama
 Jake Thienman,SAF,Purdue,Big Ten,Indiana
-Marvin Tillman,SAF,West Carolina,,
+Marvin Tillman,SAF,Western Carolina,FCS,North Carolina
 Damarius Travis,SAF,Minnesota,Big Ten,Minnesota
 Jeremy Tyler,SAF,West Virginia,Big 12,West Virginia
 Verkedric Vaughns,SAF,Baylor,Big 12,Texas
@@ -1065,7 +1065,7 @@ Kieron Williams,SAF,Nebraska,Big Ten,Nebraska
 Evan Worthington,SAF,Colorado,Pac 12,Colorado
 Roberto Aguayo,K,Florida State,ACC,Florida
 John Baron,K,San Diego State,FBS - Mountain West,California
-Tyler Basch,K,Missouri Western,,
+Tyler Basch,K,Missouri Western State,D2,Missouri
 Andrew Franks,K,RPI,D3,New York
 Elliott Fry,K,South Carolina,SEC,South Carolina
 Josh Gable,K,No College,,
@@ -1079,9 +1079,9 @@ Erik Powell,K,Washington State,Pac 12,Washington
 Ty Rausa,K,Boise State,FBS - Mountain West,Idaho
 Taylor Russolino,K,Millsaps,D3,Mississippi
 Ryan Santoso,K,Minnesota,Big Ten,Minnesota
-Cole Tracy,K,Louisiana State,,
+Cole Tracy,K,LSU,SEC,Louisiana
 Tristan Vizcaino,K,Washington,Pac 12,Washington
-Matthew Wright,K,Central Florida,,
+Matthew Wright,K,UCF,FBS - AAC,Florida
 Ryan Anderson,P,Rutgers,Big Ten,New Jersey
 Ian Berryman,P,Western Carolina,FCS,North Carolina
 Cory Carter,P,Texas Southern,FCS,Texas
@@ -1094,25 +1094,25 @@ Tyler Newsome,P,Notre Dame,FBS - Independent,Indiana
 Hunter Niswander,P,Northwestern,Big Ten,Illinois
 Cameron Nizialek,P,Georgia,SEC,Georgia
 Austin Rehkow,P,Idaho,FBS - Sun Belt,Idaho
-Colton Schmidt,P,California-Davis,,
+Colton Schmidt,P,UC Davis,FCS,California
 Jake Schum,P,Buffalo,FBS - MAC,New York
 Sean Smith,P,Dayton,FCS,Ohio
 Taylor Symmank,P,Texas Tech,Big 12,Texas
 Shane Tripucka,P,Texas A&M,SEC,Texas
 Justin Vogel,P,Miami (FL),ACC,Florida
-Brad Wing,P,Louisiana State,,
+Brad Wing,P,LSU,SEC,Louisiana
 Joseph Zema,P,Incarnate Word,FCS,Texas
 Noah Borden,LS,Hawaii,FBS - Mountain West,Hawaii
 Nate Boyer,LS,Texas,Big 12,Texas
 Tanner Carew,LS,Oregon,Pac 12,Oregon
 Scott Daly,LS,Notre Dame,FBS - Independent,Indiana
 Ryan DiSalvo,LS,San Jose State,FBS - Mountain West,California
-Wes Farnsworth,LS,Nevada-Reno,,
+Wes Farnsworth,LS,Nevada,FBS - Mountain West,Nevada
 Drew Ferris,LS,Florida,SEC,Florida
 James Fisher,LS,North Dakota State,FCS,North Dakota
 Joe Fortunato,LS,Delaware,FCS,Delaware
 Austin Frey,LS,Texas A&M,SEC,Texas
-Owen Gilbert,LS,Marian,,
+Owen Gilbert,LS,Marian,NAIA,Indiana
 AJ Hantak,LS,Eastern Illinois,FCS,Illinois
 Seth Hebert,LS,Central Missouri,D2,Missouri
 Colin Holba,LS,Louisville,ACC,Kentucky
