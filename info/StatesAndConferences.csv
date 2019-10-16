@@ -118,7 +118,7 @@ Central Michigan,FBS - MAC,Michigan
 Ball State,FBS - MAC,Indiana
 Eastern Michigan,FBS - MAC,Michigan
 Georgia Southern,FBS - Sun Belt,Georgia
-Louisiana-Lafayette,FBS - Sun Belt,Louisiana
+Louisiana,FBS - Sun Belt,Louisiana
 Appalachian State,FBS - Sun Belt,North Carolina
 Texas State,FBS - Sun Belt,Texas
 Arkansas State,FBS - Sun Belt,Arkansas
@@ -181,6 +181,7 @@ Jackson State,FCS,Mississippi
 Jacksonville,FCS,Florida
 Jacksonville State,FCS,Alabama
 James Madison,FCS,Virginia
+Kennesaw State,FCS,Georgia
 Lafayette,FCS,Pennsylvania
 Lamar,FCS,Texas
 Lehigh,FCS,Pennsylvania
@@ -409,6 +410,7 @@ Wayne State,D2,Michigan
 Wayne State College,D2,Nebraska
 West Alabama,D2,Alabama
 West Chester,D2,Pennsylvania
+West Florida,D2,Florida
 West Georgia,D2,Georgia
 West Liberty,D2,West Virginia
 West Texas A&M,D2,Texas
@@ -664,4 +666,12 @@ Wittenberg,D3,Ohio
 Wooster,D3,Ohio
 Worcester Poly,D3,Massachusetts
 Worcester State,D3,Massachusetts
-Grand Rapids,JC,Michigan
+Grand Rapids,NJCAA,Michigan
+Arizona Christian,NAIA,Arizona
+Southwest Assembly of God,NAIA,Texas
+Marian,NAIA,Indiana
+Penn State-Beaver,USCAA,Pennsylvania
+Independance CC,NJCAA,Kansas
+Seattle,WAC,Washington
+Oregon Tech,NAIA,Oregon
+Globe Tech,NJCAA,New York
