@@ -11,7 +11,7 @@ ORDER,TEAM,PLAYER,POSITION,COLLEGE,PHASE,ROUND,CONFERENCE,STATE
 2,Roughnecks,Connor Cook,QB,Michigan State,1: Skill,1,Big Ten,Michigan
 3,Guardians,DeAngelo Yancey,WR,Purdue,1: Skill,1,Big Ten,Indiana
 4,Renegades,Jeff Badet,WR,Oklahoma,1: Skill,1,Big 12,Oklahoma
-5,Vipers,Nick Truesdell,TE,Grand Rapids,1: Skill,1,JC,Michigan
+5,Vipers,Nick Truesdell,TE,Grand Rapids,1: Skill,1,NJCAA,Michigan
 6,BattleHawks,Christine Michael,RB,Texas A&M,1: Skill,1,SEC,Texas
 7,Dragons,Trey Williams,RB,Texas A&M,1: Skill,1,SEC,Texas
 8,Wildcats,Elijah Hood,RB,North Carolina,1: Skill,1,ACC,North Carolina
@@ -247,3 +247,325 @@ ORDER,TEAM,PLAYER,POSITION,COLLEGE,PHASE,ROUND,CONFERENCE,STATE
 6,Dragons,Praise Martin-Oguike,DE,Temple,3: DF7,10,FBS - AAC,Pennsylvania
 7,BattleHawks,Corbin Kaufisi,DE,BYU,3: DF7,10,FBS - Independent,Utah
 8,Vipers,Devin Taylor,DE,South Carolina,3: DF7,10,SEC,South Carolina
+1,Renegades,Derron Smith,SAF,Fresno State,4: DB,1,FBS - Mountain West,California
+2,Guardians,Jamar Summers,CB,Connecticut,4: DB,1,FBS - AAC,Connecticut
+3,Roughnecks,Deji Olatoye,CB,North Carolina A&T,4: DB,1,FCS,North Carolina
+4,Defenders,Elijah Campbell,CB,Northern Iowa,4: DB,1,FCS,Iowa
+5,Wildcats,Jack Tocho,CB,NC State,4: DB,1,ACC,North Carolina
+6,Dragons,Jhavonte Dean,CB,Miami (FL),4: DB,1,ACC,Florida
+7,BattleHawks,Herb Miller,SAF,Florida Atlantic,4: DB,1,FBS - CUSA,Florida
+8,Vipers,Arrion Springs,CB,Oregon,4: DB,1,Pac 12,Oregon
+1,Vipers,Picasso Nelson,CB,Southern Miss,4: DB,2,FBS - CUSA,Mississippi
+2,BattleHawks,Will Hill,SAF,Florida,4: DB,2,SEC,Florida
+3,Dragons,Chris Davis,CB,Auburn,4: DB,2,SEC,Alabama
+4,Wildcats,Jaylen Dunlap,CB,Illinois,4: DB,2,Big Ten,Illinois
+5,Defenders,Desmond Lawrence,CB,North Carolina,4: DB,2,ACC,North Carolina
+6,Roughnecks,Robert Nelson,CB,Arizona State,4: DB,2,Pac 12,Arizona
+7,Guardians,Lorenzo Doss,CB,Tulane,4: DB,2,FBS - AAC,Louisiana
+8,Renegades,Treston Decoud,CB,Oregon State,4: DB,2,Pac 12,Oregon
+1,Renegades,Dashaun Phillips,CB,Tarleton State,4: DB,3,D2,Texas
+2,Guardians,David Rivers,CB,Youngstown State,4: DB,3,FCS,Ohio
+3,Roughnecks,Trae Elston,SAF,Ole Miss,4: DB,3,SEC,Mississippi
+4,Defenders,Jalen Myrick,CB,Minnesota,4: DB,3,Big Ten,Minnesota
+5,Wildcats,C.J. Moore,CB,North Carolina Central,4: DB,3,FCS,North Carolina
+6,Dragons,Kentrell Brice,SAF,Louisiana Tech,4: DB,3,FBS - CUSA,Louisiana
+7,BattleHawks,D'Montre Wade,CB,Murray State,4: DB,3,FCS,Kentucky
+8,Vipers,Demontre Hurst,CB,Oklahoma,4: DB,3,Big 12,Oklahoma
+1,Vipers,Jude Adjei-Barimah,CB,Bowling Green,4: DB,4,FBS - MAC,Ohio
+2,BattleHawks,Dexter McCoil,SAF,Tulsa,4: DB,4,FBS - AAC,Oklahoma
+3,Dragons,Steve Williams,CB,California,4: DB,4,Pac 12,California
+4,Wildcats,Roman Tatum,CB,Southern Illinois,4: DB,4,FCS,Illinois
+5,Defenders,Doran Grant,CB,Ohio State,4: DB,4,Big Ten,Ohio
+6,Roughnecks,Marqueston Huff,SAF,Wyoming,4: DB,4,FBS - Mountain West,Wyoming
+7,Guardians,Dravon Askew-Henry,SAF,West Virginia,4: DB,4,Big 12,West Virginia
+8,Renegades,Kurtis Drummond,SAF,Michigan State,4: DB,4,Big Ten,Michigan
+1,Renegades,Josh Hawkins,CB,East Carolina,4: DB,5,FBS - AAC,North Carolina
+2,Guardians,Demetrious Cox,SAF,Michigan State,4: DB,5,Big Ten,Michigan
+3,Roughnecks,SaQwan Edwards,SAF,New Mexico,4: DB,5,FBS - Mountain West,New Mexico
+4,Defenders,Bradley Sylve,CB,Alabama,4: DB,5,SEC,Alabama
+5,Wildcats,Jordan Powell,SAF,Widener,4: DB,5,D3,Pennsylvania
+6,Dragons,Channing Stribling,CB,Michigan,4: DB,5,Big Ten,Michigan
+7,BattleHawks,Kenny Robinson,SAF,West Virginia,4: DB,5,Big 12,West Virginia
+8,Vipers,Marcelis Branch,SAF,Robert Morris,4: DB,5,FCS,Pennsylvania
+1,Vipers,Micah Hannemann,SAF,BYU,4: DB,6,FBS - Independent,Utah
+2,BattleHawks,Marquez White,CB,Florida State,4: DB,6,ACC,Florida
+3,Dragons,Cody Brown,SAF,Arkansas State,4: DB,6,FBS - Sun Belt,Arkansas
+4,Wildcats,Ahmad Dixon,SAF,Baylor,4: DB,6,Big 12,Texas
+5,Defenders,Reggie Cole,CB,Mary Hardin-Baylor,4: DB,6,D3,Texas
+6,Roughnecks,Ed Reynolds,SAF,Stanford,4: DB,6,Pac 12,California
+7,Guardians,Andrew Soroh,SAF,Florida Atlantic,4: DB,6,FBS - CUSA,Florida
+8,Renegades,Montrel Meander,SAF,Grambling State,4: DB,6,FCS,Louisiana
+1,Renegades,John Franklin III,CB,Auburn,4: DB,7,SEC,Alabama
+2,Guardians,Jeremiah McKinnon,CB,Florida International,4: DB,7,FBS - CUSA,Florida
+3,Roughnecks,Brendan Langley,CB,Lamar,4: DB,7,FCS,Texas
+4,Defenders,Rahim Moore,SAF,UCLA,4: DB,7,Pac 12,California
+5,Wildcats,Harlan Miller,CB,Southeastern Louisiana,4: DB,7,FCS,Louisiana
+6,Dragons,Jordan Martin,SAF,Syracuse,4: DB,7,ACC,New York
+7,BattleHawks,Trovon Reed,CB,Auburn,4: DB,7,SEC,Alabama
+8,Vipers,Lashard Durr,CB,Mississippi State,4: DB,7,SEC,Mississippi
+1,Vipers,Herb Waters,CB,Miami (FL),4: DB,8,ACC,Florida
+2,BattleHawks,Joe Powell,SAF,Globe Tech,4: DB,8,NJCAA,New York
+3,Dragons,Tyson Graham,SAF,South Dakota,4: DB,8,FCS,South Dakota
+4,Wildcats,Jerome Couplin,SAF,William & Mary,4: DB,8,FCS,Virginia
+5,Defenders,Tyree Kinnel,SAF,Michigan,4: DB,8,Big Ten,Michigan
+6,Roughnecks,Kendall Adams,SAF,Kansas State,4: DB,8,Big 12,Kansas
+7,Guardians,Terrence Alexander,CB,LSU,4: DB,8,SEC,Louisiana
+8,Renegades,Doyin Jibowu,SAF,Fort Hays State,4: DB,8,D2,Kansas
+1,Renegades,Donatello Brown,CB,Valdosta State,4: DB,9,D2,Georgia
+2,Guardians,Nydair Rouse,CB,West Chester,4: DB,9,D2,Pennsylvania
+3,Roughnecks,Deatrick Nichols,CB,South Florida,4: DB,9,FBS - AAC,Florida
+4,Defenders,Carlos Merritt,SAF,Campbell,4: DB,9,FCS,North Carolina
+5,Wildcats,Mike Stevens,CB,NC State,4: DB,9,ACC,North Carolina
+6,Dragons,Mohammed Seisay,CB,Nebraska,4: DB,9,Big Ten,Nebraska
+7,BattleHawks,Trey Caldwell,CB,Louisiana-Monroe,4: DB,9,FBS - Sun Belt,Louisiana
+8,Vipers,Robenson Therezie,SAF,Auburn,4: DB,9,SEC,Alabama
+1,Vipers,Bryce Canady,CB,Florida International,4: DB,10,FBS - CUSA,Florida
+2,BattleHawks,Ryan White,CB,Auburn,4: DB,10,SEC,Alabama
+3,Dragons,Sterling Moore,CB,SMU,4: DB,10,FBS - AAC,Texas
+4,Wildcats,Bryce Cheek,CB,Akron,4: DB,10,FBS - MAC,Ohio
+5,Defenders,Ladarius Gunter,CB,Miami (FL),4: DB,10,ACC,Florida
+6,Roughnecks,Justin Martin,CB,Tennessee,4: DB,10,SEC,Tennessee
+7,Guardians,Ranthony Texada,CB,TCU,4: DB,10,Big 12,Texas
+8,Renegades,Ronald Martin,SAF,LSU,4: DB,10,SEC,Louisiana
+0,Renegades,Marquis Young,RB,Massachusetts,5:Open 1,0,FBS - MAC,Massachusetts
+0,Renegades,Steven Dunbar,WR,Houston,5:Open 1,0,FBS - AAC,Texas
+0,Renegades,Keith Mumphery,WR,Michigan State,5:Open 1,0,Big Ten,Michigan
+0,Renegades,Ray Smith,DT,Boston College,5:Open 1,0,ACC,Massachusetts
+0,Renegades,Gerald Rivers,DE,Ole Miss,5:Open 1,0,SEC,Mississippi
+0,Renegades,Asantay Brown,LB,Western Michigan,5:Open 1,0,FBS - MAC,Michigan
+0,Renegades,Marquis Flowers,LB,Arizona,5:Open 1,0,Pac 12,Arizona
+0,Renegades,Tre Watson,LB,Maryland,5:Open 1,0,Big Ten,Maryland
+0,Renegades,Austin MacGinnis,K,Kentucky,5:Open 1,0,SEC,Kentucky
+0,Renegades,Colin Holba,LS,Louisville,5:Open 1,0,ACC,Kentucky
+0,Renegades,Ryan Broyles,WR,Oklahoma,5:Open 2,0,Big 12,Oklahoma
+0,Renegades,Joshua Crockett,WR,Central Oklahoma,5:Open 2,0,D2,Oklahoma
+0,Renegades,Maea Teuhema,OG,Southeastern Louisiana,5:Open 2,0,FCS,Louisiana
+0,Renegades,Tony Guerad,DT,UCF,5:Open 2,0,FBS - AAC,Florida
+0,Renegades,Tyrell Thompson,DT,Tarleton State,5:Open 2,0,D2,Texas
+0,Renegades,James Folston,DE,Pitt,5:Open 2,0,ACC,Pennsylvania
+0,Renegades,Reshard Cliett,LB,South Florida,5:Open 2,0,FBS - AAC,Florida
+0,Renegades,Tenny Adewusi,CB,Delaware,5:Open 2,0,FCS,Delaware
+0,Renegades,C.J. Smith,CB,North Dakota State,5:Open 2,0,FCS,North Dakota
+0,Renegades,Drew Galitz,P,Baylor,5:Open 2,0,Big 12,Texas
+0,Renegades,Darnell Holland,RB,Kennesaw State,5:Open 3,0,FCS,Georgia
+0,Renegades,Jerrod Heard,WR,Texas,5:Open 3,0,Big 12,Texas
+0,Renegades,Flynn Nagel,WR,Northwestern,5:Open 3,0,Big Ten,Illinois
+0,Renegades,Carl Whitley,WR,Abilene Christian,5:Open 3,0,FCS,Texas
+0,Renegades,Romello Brooker,TE,Houston,5:Open 3,0,FBS - AAC,Texas
+0,Renegades,Oni Omoile,OG,Iowa State,5:Open 3,0,Big 12,Iowa
+0,Renegades,Patrick Lawrence,OT,Baylor,5:Open 3,0,Big 12,Texas
+0,Renegades,Nick James,DT,Mississippi State,5:Open 3,0,SEC,Mississippi
+0,Renegades,Johnathan Calvin,DE,Mississippi State,5:Open 3,0,SEC,Mississippi
+0,Renegades,Jalen Harvey,SAF,Arizona State,5:Open 3,0,Pac 12,Arizona
+0,Defenders,Terrence Lee-Alls,WR,James Madison,5:Open 1,0,FCS,Virginia
+0,Defenders,Dimitrios Tsesmetzis,TE,Western Connecticut,5:Open 1,0,D3,Connecticut
+0,Defenders,Duvonta Lampkin,DT,Oklahoma,5:Open 1,0,Big 12,Oklahoma
+0,Defenders,Tavaris Barnes,DE,Clemson,5:Open 1,0,ACC,South Carolina
+0,Defenders,Jake Ceresna,DE,Cortland State,5:Open 1,0,D3,New York
+0,Defenders,Brian Khoury,DE,Carnegie Mellon,5:Open 1,0,D3,Pennsylvania
+0,Defenders,A.J. Tarpley,LB,Stanford,5:Open 1,0,Pac 12,California
+0,Defenders,Matt Elam,SAF,Florida,5:Open 1,0,SEC,Florida
+0,Defenders,Tre Sullivan,SAF,Shepherd,5:Open 1,0,D2,West Virginia
+0,Defenders,Hunter Niswander,P,Northwestern,5:Open 1,0,Big Ten,Illinois
+0,Defenders,Khalid Abdullah,RB,James Madison,5:Open 2,0,FCS,Virginia
+0,Defenders,Ryan Yurachek,RB,Marshall,5:Open 2,0,FBS - CUSA,West Virginia
+0,Defenders,Levern Jacobs III,WR,Maryland,5:Open 2,0,Big Ten,Maryland
+0,Defenders,Richard Mullaney,WR,Alabama,5:Open 2,0,SEC,Alabama
+0,Defenders,Ronald Patrick,OC,South Carolina,5:Open 2,0,SEC,South Carolina
+0,Defenders,Cole Boozer,OT,Temple,5:Open 2,0,FBS - AAC,Pennsylvania
+0,Defenders,Randall Harris,OT,Towson,5:Open 2,0,FCS,Maryland
+0,Defenders,Siupeli Anau,DT,Northern Arizona,5:Open 2,0,FCS,Arizona
+0,Defenders,Koa Farmer,LB,Penn State,5:Open 2,0,Big Ten,Pennsylvania
+0,Defenders,Max Redfield,SAF,Indiana (PA),5:Open 2,0,D2,Pennsylvania
+0,Defenders,John Thomas,RB,Penn State,5:Open 3,0,Big Ten,Pennsylvania
+0,Defenders,Jamal Custis,WR,Syracuse,5:Open 3,0,ACC,New York
+0,Defenders,Deion Holliman,WR,Missouri State,5:Open 3,0,FCS,Missouri
+0,Defenders,Jaylen Smith,WR,Louisville,5:Open 3,0,ACC,Kentucky
+0,Defenders,Justin Thomas,WR,Georgia Tech,5:Open 3,0,ACC,Georgia
+0,Defenders,Terron Prescod,OG,NC State,5:Open 3,0,ACC,North Carolina
+0,Defenders,Trae Moxley,OT,Colorado State,5:Open 3,0,FBS - Mountain West,Colorado
+0,Defenders,Josh Augusta,DT,Missouri,5:Open 3,0,SEC,Missouri
+0,Defenders,Kristjan Sokoli,DT,Buffalo,5:Open 3,0,FBS - MAC,New York
+0,Defenders,Jordan Jones,LB,Kentucky,5:Open 3,0,SEC,Kentucky
+0,Roughnecks,Blake Jackson,WR,Mary Hardin-Baylor,5:Open 1,0,D3,Texas
+0,Roughnecks,Tim Wilson,WR,East Stroudsburg,5:Open 1,0,D2,Pennsylvania
+0,Roughnecks,Nick Callender,OT,Colorado State,5:Open 1,0,FBS - Mountain West,Colorado
+0,Roughnecks,Walter Palmore,DT,Missouri,5:Open 1,0,SEC,Missouri
+0,Roughnecks,Kony Ealy,DE,Missouri,5:Open 1,0,SEC,Missouri
+0,Roughnecks,Johnny Maxey,DE,Mars Hill College,5:Open 1,0,D2,North Carolina
+0,Roughnecks,Carl Bradford,LB,Arizona State,5:Open 1,0,Pac 12,Arizona
+0,Roughnecks,Kaelin Burnett,LB,Nevada,5:Open 1,0,FBS - Mountain West,Nevada
+0,Roughnecks,Austin Rehkow,P,Idaho,5:Open 1,0,FBS - Sun Belt,Idaho
+0,Roughnecks,Colton Taylor,LS,Virginia Tech,5:Open 1,0,ACC,Virginia
+0,Roughnecks,Akrum Wadley,RB,Iowa,5:Open 2,0,Big Ten,Iowa
+0,Roughnecks,Joe Horn Jr,WR,Missouri Western State,5:Open 2,0,D2,Missouri
+0,Roughnecks,Sam Mobley,WR,Catawba College,5:Open 2,0,D2,North Carolina
+0,Roughnecks,Leon Johnson,OT,Temple,5:Open 2,0,FBS - AAC,Pennsylvania
+0,Roughnecks,Handsome Tanielu,DT,BYU,5:Open 2,0,FBS - Independent,Utah
+0,Roughnecks,Aaron Tiller,DE,Southern,5:Open 2,0,FCS,Louisiana
+0,Roughnecks,Johnny Ragin,LB,Oregon,5:Open 2,0,Pac 12,Oregon
+0,Roughnecks,Ty Schwab,LB,Boston College,5:Open 2,0,ACC,Massachusetts
+0,Roughnecks,Jeremiah Johnson,CB,Concord,5:Open 2,0,D2,West Virginia
+0,Roughnecks,K.J. Dillon,SAF,West Virginia,5:Open 2,0,Big 12,West Virginia
+0,Roughnecks,Marquez Williams,RB,Miami (FL),5:Open 3,0,ACC,Florida
+0,Roughnecks,Rhyeem Malone,WR,Louisiana,5:Open 3,0,FBS - Sun Belt,Louisiana
+0,Roughnecks,Raymond Bolden,WR,Stony Brook,5:Open 3,0,FCS,New York
+0,Roughnecks,Isame Faciane,OG,Florida International,5:Open 3,0,FBS - CUSA,Florida
+0,Roughnecks,Avery Jordan,OT,New Mexico,5:Open 3,0,FBS - Mountain West,New Mexico
+0,Roughnecks,Kamalie Matthews,OT,Murray State,5:Open 3,0,FCS,Kentucky
+0,Roughnecks,Kelvin Palmer,OT,Baylor,5:Open 3,0,Big 12,Texas
+0,Roughnecks,Taylor Reed,DE,SMU,5:Open 3,0,FBS - AAC,Texas
+0,Roughnecks,David Simmons,CB,North Park,5:Open 3,0,D3,Illinois
+0,Roughnecks,Fred Payne,SAF,Western Carolina,5:Open 3,0,FCS,North Carolina
+0,Wildcats,Winston Dimel,RB,UTEP,5:Open 1,0,FBS - CUSA,Texas
+0,Wildcats,Adonis Jennings,WR,Temple,5:Open 1,0,FBS - AAC,Pennsylvania
+0,Wildcats,Damian Prince,OT,Maryland,5:Open 1,0,Big Ten,Maryland
+0,Wildcats,Andrew Williams,DT,Auburn,5:Open 1,0,SEC,Alabama
+0,Wildcats,Shawn Oakman,DE,Baylor,5:Open 1,0,Big 12,Texas
+0,Wildcats,Taiwan Jones,LB,Michigan State,5:Open 1,0,Big Ten,Michigan
+0,Wildcats,Joshua Jenkins,CB,Army,5:Open 1,0,FBS - Independent,Kansas
+0,Wildcats,Colton Schmidt,P,UC Davis,5:Open 1,0,FCS,California
+0,Wildcats,Nick Novak,K,Maryland,5:Open 1,0,Big Ten,Maryland
+0,Wildcats,Ryan Navarro,LS,Oregon State,5:Open 1,0,Pac 12,Oregon
+0,Wildcats,Taryn Christion,QB,South Dakota State,5:Open 2,0,FCS,South Dakota
+0,Wildcats,Nico Evans,RB,Wyoming,5:Open 2,0,FBS - Mountain West,Wyoming
+0,Wildcats,DeQuan Hampton,WR,USC,5:Open 2,0,Pac 12,California
+0,Wildcats,Kermit Whitfield,WR,Florida State,5:Open 2,0,ACC,Florida
+0,Wildcats,Cordon Moog,TE,Baylor,5:Open 2,0,Big 12,Texas
+0,Wildcats,Cedric Reed,DE,Texas,5:Open 2,0,Big 12,Texas
+0,Wildcats,Quentin Gause,LB,Rutgers,5:Open 2,0,Big Ten,New Jersey
+0,Wildcats,Tyree Holder,CB,Ball State,5:Open 2,0,FBS - MAC,Indiana
+0,Wildcats,Marsean Diggs,SAF,UAB,5:Open 2,0,FBS - CUSA,Alabama
+0,Wildcats,LaDarius Wiley,SAF,Vanderbilt,5:Open 2,0,SEC,Tennessee
+0,Wildcats,Jalen Greene,WR,Utah State,5:Open 3,0,FBS - Mountain West,Utah
+0,Wildcats,Jalan McClendon,QB,Baylor,5:Open 3,0,Big 12,Texas
+0,Wildcats,Johnny Stanton,TE,UNLV,5:Open 3,0,FBS - Mountain West,Nevada
+0,Wildcats,Micah St. Andrew,OG,Fresno State,5:Open 3,0,FBS - Mountain West,California
+0,Wildcats,Patrick Vahe,OG,Texas,5:Open 3,0,Big 12,Texas
+0,Wildcats,Andrew Stelter,DT,Minnesota,5:Open 3,0,Big Ten,Minnesota
+0,Wildcats,Dame Ndiaye,DE,Portland State,5:Open 3,0,FCS,Oregon
+0,Wildcats,Alex Funches,LB,California,5:Open 3,0,Pac 12,California
+0,Wildcats,Jerimiah Spicer,LB,Riverside City College,5:Open 3,0,OEC,California
+0,Wildcats,Jaleel Wadood,SAF,UCLA,5:Open 3,0,Pac 12,California
+0,Guardians,Matthew Colburn,RB,Wake Forest,5:Open 1,0,ACC,North Carolina
+0,Guardians,J-Shun Harris,WR,Indiana,5:Open 1,0,Big Ten,Indiana
+0,Guardians,Jake Powell,TE,Monmouth,5:Open 1,0,FCS,New Jersey
+0,Guardians,Jake Powell,TE,Monmouth,5:Open 1,0,D3,Illinois
+0,Guardians,Toby Johnson,DT,Georgia,5:Open 1,0,SEC,Georgia
+0,Guardians,George Johnson,DE,Rutgers,5:Open 1,0,Big Ten,New Jersey
+0,Guardians,Ryan Mueller,DE,Kansas State,5:Open 1,0,Big 12,Kansas
+0,Guardians,Frank Ginda,LB,San Jose State,5:Open 1,0,FBS - Mountain West,California
+0,Guardians,Darnell Leslie,LB,Monmouth,5:Open 1,0,FCS,New Jersey
+0,Guardians,Darnell Leslie,LB,Monmouth,5:Open 1,0,D3,Illinois
+0,Guardians,Wes Sutton,SAF,Northern Arizona,5:Open 1,0,FCS,Arizona
+0,Guardians,Scott Daly,LS,Notre Dame,5:Open 1,0,FBS - Independent,Indiana
+0,Guardians,Garrett Fugate,QB,Central Missouri,5:Open 2,0,D2,Missouri
+0,Guardians,Tommy Bohanon,RB,Wake Forest,5:Open 2,0,ACC,North Carolina
+0,Guardians,Quadree Henderson,WR,Pitt,5:Open 2,0,ACC,Pennsylvania
+0,Guardians,Colby Pearson,WR,BYU,5:Open 2,0,FBS - Independent,Utah
+0,Guardians,Garrett Brumfield,OC,LSU,5:Open 2,0,SEC,Louisiana
+0,Guardians,Bunmi Rotimi,DT,Old Dominion,5:Open 2,0,FBS - CUSA,Virginia
+0,Guardians,Victor Ochi,DE,Stony Brook,5:Open 2,0,FCS,New York
+0,Guardians,Jawuan Johnson,LB,TCU,5:Open 2,0,Big 12,Texas
+0,Guardians,Robert McCray,LB,Indiana,5:Open 2,0,Big Ten,Indiana
+0,Guardians,Aaron Taylor,SAF,Ball State,5:Open 2,0,FBS - MAC,Indiana
+0,Guardians,Lawrence Pittman,RB,Wingate,5:Open 3,0,D2,North Carolina
+0,Guardians,Justice Liggins,WR,Stephen F. Austin,5:Open 3,0,FCS,Texas
+0,Guardians,Keevan Lucas,WR,Tulsa,5:Open 3,0,FBS - AAC,Oklahoma
+0,Guardians,Octayvius Miles,WR,Alabama A&M,5:Open 3,0,FCS,Alabama
+0,Guardians,Jake Sutherland,TE,Morehead State,5:Open 3,0,FCS,Kentucky
+0,Guardians,Adrian Bellard,OT,Texas State,5:Open 3,0,FBS - Sun Belt,Texas
+0,Guardians,Thomas Doles,OT,Northwestern,5:Open 3,0,Big Ten,Illinois
+0,Guardians,Malik Harris,DE,Incarnate Word,5:Open 3,0,FCS,Texas
+0,Guardians,DeJuan Neal,CB,Shepherd,5:Open 3,0,D2,West Virginia
+0,Guardians,Max Lyons,SAF,Southeastern Louisiana,5:Open 3,0,FCS,Louisiana
+0,BattleHawks,DeVozea Felton,WR,Tuskegee,5:Open 1,0,D2,Alabama
+0,BattleHawks,Brandon Reilly,WR,Nebraska,5:Open 1,0,Big Ten,Nebraska
+0,BattleHawks,Cole Hunt,TE,TCU,5:Open 1,0,Big 12,Texas
+0,BattleHawks,Andrew McDonald,OT,Indiana,5:Open 1,0,Big Ten,Indiana
+0,BattleHawks,Davonte Lambert,DT,Auburn,5:Open 1,0,SEC,Alabama
+0,BattleHawks,Jake Payne,DT,Shenandoah,5:Open 1,0,D3,Virginia
+0,BattleHawks,Markus Jones,DE,Angelo State,5:Open 1,0,D2,Texas
+0,BattleHawks,Steve Beauharnais,LB,Rutgers,5:Open 1,0,Big Ten,New Jersey
+0,BattleHawks,Ro'Derrick Hoskins,LB,Florida State,5:Open 1,0,ACC,Florida
+0,BattleHawks,Elliott Fry,K,South Carolina,5:Open 1,0,SEC,South Carolina
+0,BattleHawks,Lenard Tillery,RB,Southern,5:Open 2,0,FCS,Louisiana
+0,BattleHawks,Carlton Agudosi,WR,Rutgers,5:Open 2,0,Big Ten,New Jersey
+0,BattleHawks,Davon Grayson,WR,East Carolina,5:Open 2,0,FBS - AAC,North Carolina
+0,BattleHawks,Damoun Patterson,WR,Youngstown State,5:Open 2,0,FCS,Ohio
+0,BattleHawks,Michael Miller,OG,Washburn,5:Open 2,0,D2,Kansas
+0,BattleHawks,Bruno Reagan,OT,Vanderbilt,5:Open 2,0,SEC,Tennessee
+0,BattleHawks,Kellen Soulek,DT,South Dakota State,5:Open 2,0,FCS,South Dakota
+0,BattleHawks,Farrington Huguenin,DE,Kentucky,5:Open 2,0,SEC,Kentucky
+0,BattleHawks,Ulric Jones,DE,South Carolina,5:Open 2,0,SEC,South Carolina
+0,BattleHawks,Garret Dooley,LB,Wisconsin,5:Open 2,0,Big Ten,Wisconsin
+0,BattleHawks,Sherman Badie,RB,Tulane,5:Open 3,0,FBS - AAC,Louisiana
+0,BattleHawks,Ray Lawry,RB,Old Dominion,5:Open 3,0,FBS - CUSA,Virginia
+0,BattleHawks,Connor Davis,TE,Stony Brook,5:Open 3,0,FCS,New York
+0,BattleHawks,Korren Kirven,OG,Alabama,5:Open 3,0,SEC,Alabama
+0,BattleHawks,Avery Young,OG,Auburn,5:Open 3,0,SEC,Alabama
+0,BattleHawks,Shaq Jones,DE,UAB,5:Open 3,0,FBS - CUSA,Alabama
+0,BattleHawks,Clifton Duck,CB,Appalachian State,5:Open 3,0,FBS - Sun Belt,North Carolina
+0,BattleHawks,Charles James,CB,Charleston Southern,5:Open 3,0,FCS,South Carolina
+0,BattleHawks,Jack Fox,P,Rice,5:Open 3,0,FBS - CUSA,Texas
+0,BattleHawks,John Wirtel,LS,Kansas,5:Open 3,0,Big 12,Kansas
+0,Dragons,Joe Callahan,QB,Wesley,5:Open 1,0,D3,Delaware
+0,Dragons,Lavon Coleman,RB,Washington,5:Open 1,0,Pac 12,Washington
+0,Dragons,Connor Hamlett,TE,Oregon State,5:Open 1,0,Pac 12,Oregon
+0,Dragons,Colin Jeter,TE,LSU,5:Open 1,0,SEC,Louisiana
+0,Dragons,Marcell Frazier,DE,Missouri,5:Open 1,0,SEC,Missouri
+0,Dragons,Nyles Morgan,LB,Notre Dame,5:Open 1,0,FBS - Independent,Indiana
+0,Dragons,Gionni Paul,LB,Utah,5:Open 1,0,Pac 12,Utah
+0,Dragons,Brock Miller,P,Southern Utah,5:Open 1,0,FCS,Utah
+0,Dragons,Greg Joseph,K,Florida Atlantic,5:Open 1,0,FBS - CUSA,Florida
+0,Dragons,Noah Borden,LS,Hawaii,5:Open 1,0,FBS - Mountain West,Hawaii
+0,Dragons,Mikah Holder,WR,San Diego State,5:Open 2,0,FBS - Mountain West,California
+0,Dragons,Austin Proehl,WR,North Carolina,5:Open 2,0,ACC,North Carolina
+0,Dragons,Korey Robertson,WR,Southern Miss,5:Open 2,0,FBS - CUSA,Mississippi
+0,Dragons,Ben Johnson,TE,Kansas,5:Open 2,0,Big 12,Kansas
+0,Dragons,Brandon Haskin,OT,Tennessee State,5:Open 2,0,FCS,Tennessee
+0,Dragons,Jeremy Liggins,DT,Ole Miss,5:Open 2,0,SEC,Mississippi
+0,Dragons,Jordan Thompson,DT,Northwestern,5:Open 2,0,Big Ten,Illinois
+0,Dragons,Martin Ifedi,DE,Memphis,5:Open 2,0,FBS - AAC,Tennessee
+0,Dragons,Anthony Johnson,DE,Florida International,5:Open 2,0,FBS - CUSA,Florida
+0,Dragons,Dante Booker,LB,Ohio State,5:Open 2,0,Big Ten,Ohio
+0,Dragons,BJ Daniels,QB,South Florida,5:Open 3,0,FBS - AAC,Florida
+0,Dragons,Ja'Quan Gardner,RB,Humboldt State,5:Open 3,0,D2,California
+0,Dragons,Reuben Mwehla,WR,Idaho,5:Open 3,0,FBS - Sun Belt,Idaho
+0,Dragons,Jalen Rowell,WR,Air Force,5:Open 3,0,FBS - Mountain West,Colorado
+0,Dragons,Naty Rodgers,OT,Houston,5:Open 3,0,FBS - AAC,Texas
+0,Dragons,Shane Bowman,DT,Washington,5:Open 3,0,Pac 12,Washington
+0,Dragons,Durrant Miles,DE,Boise State,5:Open 3,0,FBS - Mountain West,Idaho
+0,Dragons,Kyle Queiro,LB,Northwestern,5:Open 3,0,Big Ten,Illinois
+0,Dragons,Jermaine Ponder,CB,Saint Francis,5:Open 3,0,FCS,Pennsylvania
+0,Dragons,Santos Ramirez,SAF,Arkansas,5:Open 3,0,SEC,Arkansas
+0,Vipers,Ralph Webb,RB,Vanderbilt,5:Open 1,0,SEC,Tennessee
+0,Vipers,Ryan Davis,WR,Auburn,5:Open 1,0,SEC,Alabama
+0,Vipers,Daniel Williams,WR,Jackson State,5:Open 1,0,FCS,Mississippi
+0,Vipers,John Yarbrough,OG,Richmond,5:Open 1,0,FCS,Virginia
+0,Vipers,Nikita Whitlock,DT,Wake Forest,5:Open 1,0,ACC,North Carolina
+0,Vipers,Bobby Richardson,DE,Indiana,5:Open 1,0,Big Ten,Indiana
+0,Vipers,Ike Spearman,LB,Eastern Michigan,5:Open 1,0,FBS - MAC,Michigan
+0,Vipers,Jake Schum,P,Buffalo,5:Open 1,0,FBS - MAC,New York
+0,Vipers,Andrew Franks,K,Rensselaer Polytechnic,5:Open 1,0,D3,New York
+0,Vipers,Nick Moore,LS,Georgia,5:Open 1,0,SEC,Georgia
+0,Vipers,Jacques Patrick,RB,Florida State,5:Open 2,0,ACC,Florida
+0,Vipers,Freddie Martino,WR,North Greenville,5:Open 2,0,D2,South Carolina
+0,Vipers,Willie Quinn,WR,Southern,5:Open 2,0,FCS,Louisiana
+0,Vipers,Colin Thompson,TE,Temple,5:Open 2,0,FBS - AAC,Pennsylvania
+0,Vipers,Miguel Machado,OT,Michigan State,5:Open 2,0,Big Ten,Michigan
+0,Vipers,Giorgio Newberry,DT,Florida State,5:Open 2,0,ACC,Florida
+0,Vipers,Terrance Plummer,LB,UCF,5:Open 2,0,FBS - AAC,Florida
+0,Vipers,Davante Davis,CB,Texas,5:Open 2,0,Big 12,Texas
+0,Vipers,Shelton Lewis,CB,Florida Atlantic,5:Open 2,0,FBS - CUSA,Florida
+0,Vipers,Robert Priester,SAF,Wyoming,5:Open 2,0,FBS - Mountain West,Wyoming
+0,Vipers,Vincent Testaverde Jr,QB,Albany,5:Open 3,0,FCS,New York
+0,Vipers,D.J. May,RB,Wyoming,5:Open 3,0,FBS - Mountain West,Wyoming
+0,Vipers,KJ Maye,WR,Minnesota,5:Open 3,0,Big Ten,Minnesota
+0,Vipers,Chris Thompson,WR,Florida,5:Open 3,0,SEC,Florida
+0,Vipers,DeAndre Goolsby,TE,Florida,5:Open 3,0,SEC,Florida
+0,Vipers,Zack Golditch,OG,Colorado State,5:Open 3,0,FBS - Mountain West,Colorado
+0,Vipers,Trevon Sanders,DT,Troy,5:Open 3,0,FBS - Sun Belt,Alabama
+0,Vipers,Malik Warner,CB,Wagner,5:Open 3,0,FCS,New York
+0,Vipers,John Green,SAF,Connecticut,5:Open 3,0,FBS - AAC,Connecticut
+0,Vipers,Matthew Wright,K,UCF,5:Open 3,0,FBS - AAC,Florida
