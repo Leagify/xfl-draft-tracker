@@ -11,7 +11,7 @@ ORDER,TEAM,PLAYER,POSITION,COLLEGE,PHASE,ROUND,CONFERENCE,STATE
 2,Roughnecks,Connor Cook,QB,Michigan State,1: Skill,1,Big Ten,Michigan
 3,Guardians,DeAngelo Yancey,WR,Purdue,1: Skill,1,Big Ten,Indiana
 4,Renegades,Jeff Badet,WR,Oklahoma,1: Skill,1,Big 12,Oklahoma
-5,Vipers,Nick Truesdell,TE,Grand Rapids,1: Skill,1,JC,Michigan
+5,Vipers,Nick Truesdell,TE,Grand Rapids,1: Skill,1,NJCAA,Michigan
 6,BattleHawks,Christine Michael,RB,Texas A&M,1: Skill,1,SEC,Texas
 7,Dragons,Trey Williams,RB,Texas A&M,1: Skill,1,SEC,Texas
 8,Wildcats,Elijah Hood,RB,North Carolina,1: Skill,1,ACC,North Carolina
@@ -247,3 +247,83 @@ ORDER,TEAM,PLAYER,POSITION,COLLEGE,PHASE,ROUND,CONFERENCE,STATE
 6,Dragons,Praise Martin-Oguike,DE,Temple,3: DF7,10,FBS - AAC,Pennsylvania
 7,BattleHawks,Corbin Kaufisi,DE,BYU,3: DF7,10,FBS - Independent,Utah
 8,Vipers,Devin Taylor,DE,South Carolina,3: DF7,10,SEC,South Carolina
+1,Renegades,Derron Smith,SAF,Fresno State,4: DB,1,FBS - Mountain West,California
+2,Guardians,Jamar Summers,CB,Connecticut,4: DB,1,FBS - AAC,Connecticut
+3,Roughnecks,Deji Olatoye,CB,North Carolina A&T,4: DB,1,FCS,North Carolina
+4,Defenders,Elijah Campbell,CB,Northern Iowa,4: DB,1,FCS,Iowa
+5,Wildcats,Jack Tocho,CB,NC State,4: DB,1,ACC,North Carolina
+6,Dragons,Jhavonte Dean,CB,Miami (FL),4: DB,1,ACC,Florida
+7,BattleHawks,Herb Miller,SAF,Florida Atlantic,4: DB,1,FBS - CUSA,Florida
+8,Vipers,Arrion Springs,CB,Oregon,4: DB,1,Pac 12,Oregon
+1,Vipers,Picasso Nelson,CB,Southern Miss,4: DB,2,FBS - CUSA,Mississippi
+2,BattleHawks,Will Hill,SAF,Florida,4: DB,2,SEC,Florida
+3,Dragons,Chris Davis,CB,Auburn,4: DB,2,SEC,Alabama
+4,Wildcats,Jaylen Dunlap,CB,Illinois,4: DB,2,Big Ten,Illinois
+5,Defenders,Desmond Lawrence,CB,North Carolina,4: DB,2,ACC,North Carolina
+6,Roughnecks,Robert Nelson,CB,Arizona State,4: DB,2,Pac 12,Arizona
+7,Guardians,Lorenzo Doss,CB,Tulane,4: DB,2,FBS - AAC,Louisiana
+8,Renegades,Treston Decoud,CB,Oregon State,4: DB,2,Pac 12,Oregon
+1,Renegades,Dashaun Phillips,CB,Tarleton State,4: DB,3,D2,Texas
+2,Guardians,David Rivers,CB,Youngstown State,4: DB,3,FCS,Ohio
+3,Roughnecks,Trae Elston,SAF,Ole Miss,4: DB,3,SEC,Mississippi
+4,Defenders,Jalen Myrick,CB,Minnesota,4: DB,3,Big Ten,Minnesota
+5,Wildcats,C.J. Moore,CB,North Carolina Central,4: DB,3,FCS,North Carolina
+6,Dragons,Kentrell Brice,SAF,Louisiana Tech,4: DB,3,FBS - CUSA,Louisiana
+7,BattleHawks,D'Montre Wade,CB,Murray State,4: DB,3,FCS,Kentucky
+8,Vipers,Demontre Hurst,CB,Oklahoma,4: DB,3,Big 12,Oklahoma
+1,Vipers,Jude Adjei-Barimah,CB,Bowling Green,4: DB,4,FBS - MAC,Ohio
+2,BattleHawks,Dexter McCoil,SAF,Tulsa,4: DB,4,FBS - AAC,Oklahoma
+3,Dragons,Steve Williams,CB,California,4: DB,4,Pac 12,California
+4,Wildcats,Roman Tatum,CB,Southern Illinois,4: DB,4,FCS,Illinois
+5,Defenders,Doran Grant,CB,Ohio State,4: DB,4,Big Ten,Ohio
+6,Roughnecks,Marqueston Huff,SAF,Wyoming,4: DB,4,FBS - Mountain West,Wyoming
+7,Guardians,Dravon Askew-Henry,SAF,West Virginia,4: DB,4,Big 12,West Virginia
+8,Renegades,Kurtis Drummond,SAF,Michigan State,4: DB,4,Big Ten,Michigan
+1,Renegades,Josh Hawkins,CB,East Carolina,4: DB,5,FBS - AAC,North Carolina
+2,Guardians,Demetrious Cox,SAF,Michigan State,4: DB,5,Big Ten,Michigan
+3,Roughnecks,SaQwan Edwards,SAF,New Mexico,4: DB,5,FBS - Mountain West,New Mexico
+4,Defenders,Bradley Sylve,CB,Alabama,4: DB,5,SEC,Alabama
+5,Wildcats,Jordan Powell,SAF,Widener,4: DB,5,D3,Pennsylvania
+6,Dragons,Channing Stribling,CB,Michigan,4: DB,5,Big Ten,Michigan
+7,BattleHawks,Kenny Robinson,SAF,West Virginia,4: DB,5,Big 12,West Virginia
+8,Vipers,Marcelis Branch,SAF,Robert Morris,4: DB,5,FCS,Pennsylvania
+1,Vipers,Micah Hannemann,SAF,BYU,4: DB,6,FBS - Independent,Utah
+2,BattleHawks,Marquez White,CB,Florida State,4: DB,6,ACC,Florida
+3,Dragons,Cody Brown,SAF,Arkansas State,4: DB,6,FBS - Sun Belt,Arkansas
+4,Wildcats,Ahmad Dixon,SAF,Baylor,4: DB,6,Big 12,Texas
+5,Defenders,Reggie Cole,CB,Mary Hardin-Baylor,4: DB,6,D3,Texas
+6,Roughnecks,Ed Reynolds,SAF,Stanford,4: DB,6,Pac 12,California
+7,Guardians,Andrew Soroh,SAF,Florida Atlantic,4: DB,6,FBS - CUSA,Florida
+8,Renegades,Montrel Meander,SAF,Grambling State,4: DB,6,FCS,Louisiana
+1,Renegades,John Franklin III,CB,Auburn,4: DB,7,SEC,Alabama
+2,Guardians,Jeremiah McKinnon,CB,Florida International,4: DB,7,FBS - CUSA,Florida
+3,Roughnecks,Brendan Langley,CB,Lamar,4: DB,7,FCS,Texas
+4,Defenders,Rahim Moore,SAF,UCLA,4: DB,7,Pac 12,California
+5,Wildcats,Harlan Miller,CB,Southeastern Louisiana,4: DB,7,FCS,Louisiana
+6,Dragons,Jordan Martin,SAF,Syracuse,4: DB,7,ACC,New York
+7,BattleHawks,Trovon Reed,CB,Auburn,4: DB,7,SEC,Alabama
+8,Vipers,Lashard Durr,CB,Mississippi State,4: DB,7,SEC,Mississippi
+1,Vipers,Herb Waters,CB,Miami (FL),4: DB,8,ACC,Florida
+2,BattleHawks,Joe Powell,SAF,Globe Tech,4: DB,8,NJCAA,New York
+3,Dragons,Tyson Graham,SAF,South Dakota,4: DB,8,FCS,South Dakota
+4,Wildcats,Jerome Couplin,SAF,William & Mary,4: DB,8,FCS,Virginia
+5,Defenders,Tyree Kinnel,SAF,Michigan,4: DB,8,Big Ten,Michigan
+6,Roughnecks,Kendall Adams,SAF,Kansas State,4: DB,8,Big 12,Kansas
+7,Guardians,Terrence Alexander,CB,LSU,4: DB,8,SEC,Louisiana
+8,Renegades,Doyin Jibowu,SAF,Fort Hays State,4: DB,8,D2,Kansas
+1,Renegades,Donatello Brown,CB,Valdosta State,4: DB,9,D2,Georgia
+2,Guardians,Nydair Rouse,CB,West Chester,4: DB,9,D2,Pennsylvania
+3,Roughnecks,Deatrick Nichols,CB,South Florida,4: DB,9,FBS - AAC,Florida
+4,Defenders,Carlos Merritt,SAF,Campbell,4: DB,9,FCS,North Carolina
+5,Wildcats,Mike Stevens,CB,NC State,4: DB,9,ACC,North Carolina
+6,Dragons,Mohammed Seisay,CB,Nebraska,4: DB,9,Big Ten,Nebraska
+7,BattleHawks,Trey Caldwell,CB,Louisiana Monroe,4: DB,9,,
+8,Vipers,Robenson Therezie,SAF,Auburn,4: DB,9,SEC,Alabama
+1,Vipers,Bryce Canady,CB,Florida International,4: DB,10,FBS - CUSA,Florida
+2,BattleHawks,Ryan White,CB,Auburn,4: DB,10,SEC,Alabama
+3,Dragons,Sterling Moore,CB,SMU,4: DB,10,FBS - AAC,Texas
+4,Wildcats,Bryce Cheek,CB,Akron,4: DB,10,FBS - MAC,Ohio
+5,Defenders,Ladarius Gunter,CB,Miami (FL),4: DB,10,ACC,Florida
+6,Roughnecks,Justin Martin,CB,Tennessee,4: DB,10,SEC,Tennessee
+7,Guardians,Ranthony Texada,CB,TCU,4: DB,10,Big 12,Texas
+8,Renegades,Ronald Martin,SAF,LSU,4: DB,10,SEC,Louisiana
